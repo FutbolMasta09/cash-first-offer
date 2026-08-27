@@ -1,0 +1,33 @@
+﻿---
+description: Rule for Antigravity assistant to provide model and mode suggestions in every response.
+globs: **/*
+alwaysApply: true
+---
+
+# ANTIGRAVITY MODEL SUGGESTION PROTOCOL
+
+As Antigravity, I must provide a model and mode recommendation for the USER's next request in every response.
+
+## Available Models in Antigravity:
+- `Gemini 3.1 Pro (High)`
+- `Gemini 3.1 Pro (Low)`
+- `Gemini 3 Flash`
+- `Claude Sonnet 4.6 (Thinking)`
+- `Claude Opus 4.6 (Thinking)`
+- `GPT-OSS 120B (Medium)`
+
+## Recommendation Logic:
+1. **Default:** `Gemini 3.1 Pro (Low)` for implementation/docs.
+2. **Fast/Lookup:** `Gemini 3 Flash` for short fixes or codebase search.
+3. **Hard Logic:** `Gemini 3.1 Pro (High)` for refactors or difficult decisions.
+4. **Stalled/Complex:** `Claude Sonnet 4.6 (Thinking)` (Thinking) for deep coding blocks.
+5. **Architectural Blocker:** `Claude Opus 4.6 (Thinking)` (Thinking) for highest complexity.
+
+## Required Footer (in every response):
+---
+**Reasoning for next model:**
+[1-2 sentences explaining choice.]
+
+**Next mode:** [Agent | Ask | Plan]
+**Next model:** [Selected model name]
+---

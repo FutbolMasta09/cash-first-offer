@@ -1,0 +1,88 @@
+{
+  "version": "1.0.0",
+  "description": "Canonical manifest for the Project Starter rules-pack. This pack is maintained directly at starter/rules-pack/ — there is no generation step. Run `npm run rules:pack:verify` to check pack integrity, and `npm run rules:pack:install -- <target-path>` to install it into a new project.",
+  "sourceOfTruth": "starter/rules-pack/",
+  "rules": {
+    "installDir": ".cursor/rules",
+    "note": "Every rule file installs verbatim (identical filename) into the target project's .cursor/rules/ directory.",
+    "files": [
+      "antigravity-model-suggestion.mdc",
+      "beginner-assist-mode.mdc",
+      "bugfix-protocol.mdc",
+      "clarification-gate.mdc",
+      "claude-code-offload-window.mdc",
+      "coding-standards-general.mdc",
+      "collaboration-continue-handoff.mdc",
+      "communication-style-general.mdc",
+      "cursor-pro-tools.mdc",
+      "datetime-check.mdc",
+      "definition-of-done.mdc",
+      "forecasting-loop.mdc",
+      "game-project-research.mdc",
+      "health-check.mdc",
+      "honest-advisor.mdc",
+      "model-routing.mdc",
+      "no-overpromising.mdc",
+      "non-coder-comms.mdc",
+      "planning-protocol.mdc",
+      "project-idea-intake.mdc",
+      "question-translator.mdc",
+      "session-protocol-template.mdc",
+      "steam-deck-first.mdc",
+      "workflow-rulesheet.mdc"
+    ]
+  },
+  "documents": [
+    { "file": "ACCOUNTABILITY_AUDIT_LOG_TEMPLATE.md", "installType": "docs", "installAs": "ACCOUNTABILITY_AUDIT_LOG.md" },
+    { "file": "AI_FIRST_BUILD_STRATEGY.md", "installType": "reference", "installAs": null },
+    { "file": "ASK_TEMPLATE.md", "installType": "docs", "installAs": "ASK_TEMPLATE.md" },
+    { "file": "AUDIT_REMEDIATION_PLAN_TEMPLATE.md", "installType": "docs", "installAs": "AUDIT_REMEDIATION_PLAN.md" },
+    { "file": "AUDIT_SESSION_TEMPLATE.md", "installType": "reference", "installAs": null },
+    { "file": "CURSOR_MODEL_AND_MODE_REFERENCE_TEMPLATE.md", "installType": "reference", "installAs": null },
+    { "file": "DECISIONS_TEMPLATE.md", "installType": "reference", "installAs": null },
+    { "file": "ESTIMATION_RETROSPECTIVE_TEMPLATE.md", "installType": "docs", "installAs": "ESTIMATION_RETROSPECTIVE.md" },
+    { "file": "FORECAST_BASELINES_TEMPLATE.md", "installType": "docs", "installAs": "FORECAST_BASELINES.md" },
+    { "file": "MARKETING_STRATEGY_TEMPLATE.md", "installType": "reference", "installAs": null },
+    { "file": "MODEL_ROUTING_CHEAT_SHEET.md", "installType": "reference", "installAs": null },
+    { "file": "NEW_PROJECT_START_MASTER_RUNBOOK.md", "installType": "docs", "installAs": "NEW_PROJECT_START_MASTER_RUNBOOK.md" },
+    { "file": "PATCH_NOTES_TEMPLATE.md", "installType": "root", "installAs": "PATCH_NOTES.md" },
+    { "file": "PHASE_TRANSITION_GATES_TEMPLATE.md", "installType": "docs", "installAs": "PHASE_TRANSITION_GATES.md" },
+    { "file": "PLANNING_CADENCE.md", "installType": "docs", "installAs": "PLANNING_CADENCE.md" },
+    { "file": "POSTMORTEM_TEMPLATE.md", "installType": "reference", "installAs": null },
+    { "file": "PROJECT_CONTEXT_TEMPLATE.md", "installType": "root", "installAs": "PROJECT_CONTEXT.md" },
+    { "file": "PROJECT_IDEA_INTAKE_PROTOCOL.md", "installType": "docs", "installAs": "PROJECT_IDEA_INTAKE_PROTOCOL.md" },
+    { "file": "PROJECT_PROFILE_TEMPLATE.md", "installType": "reference", "installAs": null },
+    { "file": "PROMPT_COACHING_LOG.md", "installType": "reference", "installAs": null },
+    { "file": "PROMPT_COACHING_PLAYBOOK.md", "installType": "reference", "installAs": null },
+    { "file": "PROMPT_TEMPLATE.md", "installType": "reference", "installAs": null },
+    { "file": "PROMPT_WEEKLY_SCORECARD.md", "installType": "reference", "installAs": null },
+    { "file": "RESEARCH_ZERO_RUNTIME_GAMES_2026.md", "installType": "reference", "installAs": null },
+    { "file": "ROADMAP_TIMELINE_TEMPLATE.md", "installType": "docs", "installAs": "ROADMAP_TIMELINE.md" },
+    { "file": "SOLO_DEV_CAREER_MASTER_PLAN_TEMPLATE.md", "installType": "docs", "installAs": "SOLO_DEV_CAREER_MASTER_PLAN.md" },
+    { "file": "STANDARDS_PROTOCOLS_GUARDRAILS_TEMPLATE.md", "installType": "docs", "installAs": "STANDARDS_PROTOCOLS_GUARDRAILS_TEMPLATE.md" },
+    { "file": "STRATEGY_HORIZONS.md", "installType": "docs", "installAs": "STRATEGY_HORIZONS.md" },
+    { "file": "WEEKLY_EXECUTION_TRACKER_TEMPLATE.md", "installType": "docs", "installAs": "WEEKLY_EXECUTION_TRACKER.md" }
+  ],
+  "externalReferences": [
+    {
+      "path": "IDEAS_NOTEBOOK.md",
+      "reason": "Workspace-level idea-capture notebook kept in one long-lived location outside individual projects; the intake protocol files ideas into it where it exists. Intentionally not installed per-project."
+    },
+    {
+      "path": "FUTURE_PROJECTS_POOL_MASTERLIST.md",
+      "reason": "Workspace-level future-projects pool maintained once for the whole portfolio; per-project copies would fork the pool. Intentionally not installed."
+    },
+    {
+      "path": "POST_PRIMARY_PROJECT_LOCK.md",
+      "reason": "Workspace-level locked execution-order record owned by the portfolio authority, not by any single project. Intentionally not installed."
+    },
+    {
+      "path": "PROJECT_PRIORITY_AUDIT.md",
+      "reason": "Workspace-level comparison rubric used at planning windows across projects. Intentionally not installed."
+    },
+    {
+      "path": "PLAN_MODE_AND_BACKLOG.md",
+      "reason": "Workspace-level queue of large planning topics spanning projects. Intentionally not installed."
+    }
+  ]
+}

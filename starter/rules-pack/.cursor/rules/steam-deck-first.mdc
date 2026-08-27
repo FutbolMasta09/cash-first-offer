@@ -1,0 +1,17 @@
+﻿---
+description: Enforces Steam Deck baseline architecture and UI rules for all Game projects.
+globs: *.gd, *.ts, *.tsx, *.js, *.jsx, *.css, *.html
+---
+# Steam Deck First Architecture
+
+**This rule applies aggressively to all UI, input, and performance code generated for Game Projects.**
+If you are generating code that runs on the player's client, adhere to these constraints immediately:
+
+1. **Resolution Native:** Design layouts to scale up from **1280x800 native** (Steam Deck screen). Do not assume 1080p or 4K. Use vector/SVG/CSS scaling to ensure layout looks sharp up to 4K resolution.
+2. **Input Hot-Swapping:** Controller (Gamepad/Steam Input), Touch (Steam Deck), and Mouse/Keyboard must all be **1st-class citizens** out of the box. Do not hardcode "click" expectations; input must auto-detect and gracefully fluidly hot-swap the UI state (e.g., hiding cursors on gamepad use, enlarging hitboxes on touch).
+3. **Offline Independence:** Code must compile and run **100% offline.** Do not write runtime API calls to services (like OpenAI/Claude APIs) or active cloud databases (like Supabase live syncing). The game must be completely self-reliant without recurring server cost.
+4. **Readability & Text Setup:** Steam Deck requires legible UX elements. Ensure standard text sizes use accessible relative units (REM/EM), and that text-heavy UI accommodates variable scaling.
+5. **No MacOS Specifics:** Target Windows and Native Linux (SteamOS compatibility). Do not write OSX/Mac-only pipelines without explicit authorization.
+
+*This aligns with the workspace's Game Standard defaults.*
+
