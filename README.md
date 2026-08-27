@@ -24,7 +24,8 @@ Household cash in 7–30 days. First dollars = paid, scoped service. Owned produ
 1. [PROJECT_CONTEXT.md](PROJECT_CONTEXT.md)
 2. [docs/OFFER_COPY.md](docs/OFFER_COPY.md)
 3. [docs/MONETIZATION.md](docs/MONETIZATION.md)
-4. [docs/KILL_CRITERIA.md](docs/KILL_CRITERIA.md)
+4. [docs/CLIENT_PREFLIGHT.md](docs/CLIENT_PREFLIGHT.md) — what you and the client need before kickoff (A & B)
+5. [docs/KILL_CRITERIA.md](docs/KILL_CRITERIA.md)
 5. [docs/OUTREACH_14_DAY.md](docs/OUTREACH_14_DAY.md) — Ryan executes this checklist
 6. [docs/HANDOFF_LANDING_PAGE.md](docs/HANDOFF_LANDING_PAGE.md) — paste into Claude/Codex desktop
 7. [docs/OWNED_ARTIFACT_DECISION.md](docs/OWNED_ARTIFACT_DECISION.md)
