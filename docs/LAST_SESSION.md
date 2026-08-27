@@ -1,30 +1,42 @@
-# Last Session — 2026-08-27
+# Last Session — 2026-08-27 (exit)
 
-**Status:** Repo scaffolded (capped service-experiment profile). Storefront not yet live.
-**Next session:** Fill payment links, build the landing page, start outreach.
+**Status:** Repo + markdown intake done. Storefront not live. **Next task locked:** Amber-style HTML intake forms.  
+**Workflow:** Cursor = brain/plan; Claude/Codex desktop = implement/audit.
 
 ---
 
-## Done
-- Private repo `FutbolMasta09/cash-first-offer` created from `project-starter` template (SD-018a)
-- Pack docs migrated in; `PROJECT_CONFIG.md` decisions locked; D001 logged in `docs/DECISIONS.md`
-- Unused template docs deleted (inventory in D001); `clients/`/`kits/` not created — see `docs/GROWTH.md`
-- `docs/SECURITY_CHECKLIST.md` — Tier 3 declared with broad re-check trigger
-- `docs/TARGET_AUDIENCE.md`, `docs/STYLE_GUIDE.md` authored
-- `docs/RUNBOOK_FEEDBACK.md` — proposed Path E (Service / Offer Track)
-- `landing/README.md` stub ready for the page build
-- Parent workspace (`C:\App Development`) stopped tracking this pack directly; nested repo is now the live project
+## Done this session (cumulative)
 
-## Next
-- Ryan: create payment links (Stripe/Lemon Squeezy/PayPal), fill `docs/PAYMENT_LINKS.md`
-- Paste `docs/HANDOFF_LANDING_PAGE.md` into Claude/Codex desktop to build `landing/`
-- Ryan: approve push of this repo (and the parent commit) once reviewed
-- Ryan: Fiverr/Upwork profiles + outreach per `docs/OUTREACH_14_DAY.md`
+- Cash-first strategy → SD-018 / SD-018a; capped private repo scaffolded and pushed
+- Offer copy, monetization, kill/outreach, growth rules, security Tier 3
+- `docs/CLIENT_PREFLIGHT.md` + `docs/CLIENT_INTAKE_TEMPLATE.md` (Amber *doc* pattern: duplicate master, one-shot intake text)
+- Clarified next build: **clickable HTML forms** (MC + text + send back), like Libby `AMBER_QUESTIONNAIRE_FORM_TEMPLATE.html` — not markdown-only
+- Exit handoffs written: `docs/HANDOFF_CURSOR_NEXT.md`, `docs/HANDOFF_CLIENT_INTAKE_HTML.md`
+
+## Not done
+
+- HTML intake forms (`tools/Package_A_Intake_Questions.html` etc.)
+- Payment links / `landing/` page
+- Fiverr/Upwork / outreach execution
+- Day-14 review (2026-09-10)
+
+## Next session (in order)
+
+1. **Primary:** Implement HTML intakes via `docs/HANDOFF_CLIENT_INTAKE_HTML.md` (Claude desktop preferred).  
+2. Bootstrap Cursor with `docs/HANDOFF_CURSOR_NEXT.md`.  
+3. Parallel when ready: `PAYMENT_LINKS.md` + `HANDOFF_LANDING_PAGE.md` + `OUTREACH_14_DAY.md`.
 
 ## Blockers
-- Payment links not yet live (nothing to point the landing CTAs at yet)
 
-## Known Deferred Items
-- `clients/` and `kits/` folders — see `docs/GROWTH.md`
-- Wiki overview page — deferred to day-14 review (2026-09-10)
-- Full runbook Path E adoption — proposed only, not yet applied to the canonical runbook/template
+- No live pay URL yet (storefront)  
+- HTML forms not built yet (intake UX)
+
+## Git
+
+Confirm tip before next session; commit this exit packet if not already on `origin/master`.
+
+## Known deferred
+
+- `clients/` / `kits/` folders — `docs/GROWTH.md`  
+- Wiki overview — day-14  
+- Path E runbook adoption — feedback only  

@@ -42,9 +42,10 @@ Near-term household cash. Not creative IP. Not partner product. Not primary buil
 
 ## Current Phase
 
-**Phase — Storefront setup**
-- Current sprint: payment links + landing page + Fiverr/Upwork profiles (this weekend)
-- Must-ship item this week: live payment links + live landing URL
+**Phase — Storefront + intake UX**
+- **Next task (locked):** Amber-style clickable HTML client intake forms — see `docs/HANDOFF_CLIENT_INTAKE_HTML.md` / `docs/HANDOFF_CURSOR_NEXT.md`
+- Parallel must-ship this week: live payment links + live landing URL
+- Current sprint also: Fiverr/Upwork + outreach once storefront can accept payment
 
 ## Out of scope
 
