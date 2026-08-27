@@ -1,4 +1,4 @@
-# [PROJECT NAME] — Windsurf Rules
+# Cash-first offer — Windsurf Rules
 
 ## Universal Protocols
 Before starting any work, read:
@@ -10,7 +10,7 @@ Follow all protocols for enter/exit, commits, scope guard, and communication.
 Universal rules apply. Rules below take precedence for project-specific behavior only.
 
 ## Project-Specific Rules
-<!-- Add project-specific rules here -->
-- Project type: [App / Web+PWA / Steam Game / Inkborne Game / Workflow Tool]
-- Primary context doc: [PROJECT_CONTEXT.md or docs/PRODUCT_ROADMAP.md]
-- Target platform: [Android / iOS / Steam / Web / itch.io]
+- Project type: Workflow Tool / service-offer experiment (SD-018 / SD-018a) — not a flagship
+- Primary context doc: PROJECT_CONTEXT.md
+- Target platform: Web (static landing) + Fiverr/Upwork
+- Do not create `clients/` or `kits/` folders — see docs/GROWTH.md

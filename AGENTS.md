@@ -1,4 +1,4 @@
-# [PROJECT NAME] — Codex Instructions
+# Cash-first offer — Codex Instructions
 
 ## UNIVERSAL PROTOCOLS
 All sessions must follow the universal protocols at:
@@ -12,18 +12,15 @@ Read that file before starting any session. Rules below take precedence for proj
 3. `docs/LAST_SESSION.md` — what was done, what's next, blockers
 
 ## Stack
-<!-- Fill in stack details -->
-- Framework:
-- Language:
-- Platform:
+- Framework: none yet — landing is a single static HTML file (or tiny static page); no SaaS, no auth, no database
+- Language: HTML/CSS (see `docs/HANDOFF_LANDING_PAGE.md` for acceptance criteria)
+- Platform: Web, deployed to Vercel or GitHub Pages
 
 ## How to Run
-<!-- Fill in run commands -->
-- Dev: `[command]`
-- Build: `[command]`
+- No build step yet. Once `landing/` has a page, open the file directly or serve statically.
 
 ## End of Session
-Follow `docs/EXIT_PROTOCOL.md`. Always update `docs/LAST_SESSION.md` before closing.
+Always update `docs/LAST_SESSION.md` before closing. No separate exit-protocol doc — this is a lightweight service-experiment repo (see `docs/DECISIONS.md` D001).
 
 ## Antigravity Protocols
 - **Starting a session:** Read `docs/LAST_SESSION.md` and `PROJECT_CONTEXT.md` first

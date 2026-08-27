@@ -1,33 +1,46 @@
-# Kill Criteria — [PROJECT NAME]
+# Kill criteria
 
-Defined at project start. Reviewed at every phase gate.
-Purpose: prevent sunk cost. If any trigger fires, stop and reassess before continuing.
+**Experiment:** Cash-first offer  
+**Opened:** 2026-08-27  
+**Day 14:** 2026-09-10  
+**Day 30:** 2026-09-26
 
----
+## Hard rules
 
-## Pause Triggers (reassess before next session)
+1. **Zero deposits by day 14** → do **not** start a SaaS, game, or “better landing page rebuild” as consolation. Change **offer, channel, or price** only — then re-timebox — or kill.
+2. Building more product is how this fails when the problem is distribution.
+3. Kira Calendar is out of this experiment’s time budget.
+4. Optional 48h itch game is **morale only**, expected value near zero, and only **after** the paid listing is live. Cap: one weekend. No Godot. No Inkborne.
 
-- [ ] No playable prototype after [X] sessions — design may be too complex or underspecified
-- [ ] Same blocking bug across [3+] consecutive sessions
-- [ ] Scope has grown more than 50% from original plan without a logged decision
-- [ ] Weekly hours consistently below [X] — capacity may not support this project now
+## Day-14 pass conditions (any one)
 
-## Kill Triggers (stop the project)
+- ≥1 cleared deposit for Package A or B, **or**
+- ≥3 serious paid conversations with scheduled next step and written scope interest, **and** Ryan still chooses to continue (document why deposits lagged)
 
-- [ ] Core loop does not work after [X] hours of prototype — fundamental design problem
-- [ ] Platform account rejected or insurmountable technical blocker discovered
-- [ ] A higher-priority project needs the time and cannot wait
-- [ ] Ryan decides the project no longer serves its original goal
+## Day-14 fail → required action
 
-## Reassessment Protocol
+Pick exactly one:
 
-If a trigger fires:
-1. Do not immediately abandon — run a 30-minute reassessment session
-2. Identify root cause: scope, time, design, or motivation?
-3. Options: continue, pause, pivot, or kill
-4. Log the decision in `docs/DECISIONS.md`
-5. Update `C:\App Development\PROJECT_PIPELINE.md`
+| Action | When |
+|---|---|
+| **Change offer** | Messages say price/scope wrong |
+| **Change channel** | Silence everywhere — try different boards/groups |
+| **Change price** | Interest but no pay — test one price move only |
+| **Kill** | No interest and no energy to re-offer |
 
----
+Forbidden day-14 actions: start Null Sigil, ship Deck of Oddities, rebuild Prompt Forge, open a SaaS.
 
-**Last reviewed:** [YYYY-MM-DD] — Phase [N]
+## Day-30 pass conditions
+
+- First job delivered **or** in active delivery with final payment path clear, **or**
+- Owned $49–$79 kit listed with at least one sale **or** three pre-orders
+
+## Day-30 fail
+
+Write the kill reason in `DAY_14_KILL_REVIEW.md` (or a day-30 addendum) and return capacity to parked creative work / job-hunting support. Experiment folder stays as evidence; no silent continuation.
+
+## Soft warnings (pause and decide)
+
+- Client asks for unlimited revisions or “full SaaS”
+- Work spills onto employer machine with client data
+- Offer starts competing with Kira’s own idea for her promo time — drop the ask

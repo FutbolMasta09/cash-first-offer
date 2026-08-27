@@ -1,48 +1,48 @@
-# Monetization — [PROJECT NAME]
+# Monetization
 
-Decided before Phase 1. Affects architecture, store setup, and scope.
+**Opened:** 2026-08-27  
+**Model:** One-time service packages → optional owned digital kit later  
+**Seller:** Ryan (personal / sole prop as currently operated — no new legal entity required for this experiment)
 
----
+## Public packages
 
-## Business Model
+| Package | Price | Payment | Delivery |
+|---|---|---|---|
+| A — AI Operating Kit | $497 | 100% upfront | Weekend after payment |
+| B — Custom Mini-Tool | $1,200 | $600 deposit + $600 before handoff | ~7 days after deposit + approved brief |
 
-- [ ] Free (no monetization)
-- [ ] One-time purchase: $[price]
-- [ ] Freemium (free + paid unlock): [what's paid]
-- [ ] Subscription: $[price]/[period]
-- [ ] In-app purchases: [what's purchasable]
-- [ ] Donation-ware / pay-what-you-want
-- [ ] Other: [describe]
+Do not discount in public posts. If a friend asks for a favor price, decide offline — do not advertise it.
 
-**Chosen model:** [fill in]
-**Rationale:** [why this model fits the project and audience]
+## Deposit method (pick one this weekend)
 
----
+Recommended order:
 
-## Platform Revenue Share
+1. **Stripe Payment Link** (fastest if you already have Stripe) — create two links: Kit $497, Mini-tool deposit $600
+2. **Lemon Squeezy** — same idea; good if you want digital delivery later for Track B kit
+3. **PayPal.me / PayPal invoice** — acceptable if Stripe setup blocks you this weekend
 
-| Platform | Cut | Net to Ryan |
-|---|---|---|
-| Google Play | 30% (15% after $1M) | 70% |
-| Apple App Store | 30% (15% after $1M) | 70% |
-| Steam | 30% (25% after $10M) | 70% |
-| itch.io | 0–30% (Ryan sets %) | 70–100% |
-| Direct / web | 0% (minus Stripe ~2.9%) | ~97% |
+Put the live URL in [PAYMENT_LINKS.md](PAYMENT_LINKS.md) once created (that file starts as a template).
 
----
+## What you are selling
 
-## Price Research
+- **Not** a subscription
+- **Not** “AI consulting hours”
+- **Yes** fixed deliverables with a hard scope boundary
 
-<!-- What do comparable products cost? What does Ryan's audience expect to pay? -->
+## Track B (only if Track A is moving)
 
-**Comparable products:**
-| Product | Price | Notes |
-|---|---|---|
-| [Name] | $[price] | |
+Owned kit on Gumroad or Lemon Squeezy: **$49–$79** one-time.
 
-**Planned price:** $[price]
+- Sanitized templates from real paid jobs
+- Title example: “AI operating kit for a 1–5 person service business”
+- Build only after ≥1 Package A/B sale **or** day-14 decision explicitly authorizes a pre-sold kit (3 pre-orders / 5 emails with intent)
 
----
+## Fees / costs to expect
 
-## Logged Decision
-→ Log final decision in `docs/DECISIONS.md` before Phase 1 begins.
+- Payment processor ~3% + fixed fee
+- Vercel/Supabase free tiers usually enough for first mini-tool
+- Do not buy Steam Direct, ads, or a new SaaS stack for this experiment
+
+## Kill if money path fails
+
+See [KILL_CRITERIA.md](KILL_CRITERIA.md). Zero deposits ≠ “add features to the landing page forever.”

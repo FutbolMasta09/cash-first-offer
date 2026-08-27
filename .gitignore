@@ -18,3 +18,13 @@ ios/
 *.aab
 *.ipa
 .vscode/settings.json
+
+# Client / customer data — this repo is Tier 3 (storefront only, no client data).
+# Never let a real client brief, name, or business data land in this repo.
+# If Package B work needs a workspace, use a separate repo per engagement (see docs/GROWTH.md).
+clients/
+**/customer-data/
+**/*-secret*
+*.pem
+*.key
+credentials.*

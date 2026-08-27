@@ -1,4 +1,4 @@
-# Security Checklist — [PROJECT NAME]
+# Security Checklist — Cash-first offer
 
 Tracks security posture across the project lifecycle. Reference `C:\App Development\docs\AI_SECURITY_GUIDE.md` for the full reasoning behind each item — this file is the per-project tracking sheet, not the guide itself.
 
@@ -6,7 +6,7 @@ Tracks security posture across the project lifecycle. Reference `C:\App Developm
 
 ## Data Risk Tier
 
-**Declared tier:** [1 / 2 / 3] — [YYYY-MM-DD] — logged in `docs/DECISIONS.md`
+**Declared tier:** 3 — 2026-08-27 — logged in `docs/DECISIONS.md` D001. Storefront only: Payment Links (Stripe/Lemon Squeezy/PayPal, redirect-based — no card data touches this repo or the landing page), an optional `mailto:` contact link, no analytics SDK, no hosted contact-form service, no Stripe Elements/auth/database.
 
 | Tier | Definition | Security gate required |
 |---|---|---|
@@ -20,14 +20,15 @@ Tracks security posture across the project lifecycle. Reference `C:\App Developm
 ### Tier re-check rule
 
 The tier is **not permanent**. Re-evaluate it:
-- At **every phase transition gate** (see `docs/PHASE_TRANSITION_GATES.md`)
-- Immediately when a feature **adds or removes** any of: accounts/auth, network calls, data storage, third-party services, auto-update, or cloud sync
+- At the day-14 (2026-09-10) and day-30 (2026-09-26) reviews (this project has no formal `PHASE_TRANSITION_GATES.md` — those two dates are the gate)
+- Immediately when **any real client brief, name, contact info, or business data** enters this repo **by any route** — not only via a "client mini-tool." A brief pasted into a doc, a contact form submission saved to a file, or a client's business details in an outreach log all trigger this the same as a mini-tool would.
+- Immediately if the landing page adds: a hosted contact-form service (Formspree, Netlify/Vercel forms, etc.), any analytics/tracking SDK (GA, Plausible, etc.), or Stripe Elements / any payment integration beyond Payment Links
 
-If the tier changes, log it in `docs/DECISIONS.md` with the feature that changed it, and update the declaration above. A Tier 3 game that gains a leaderboard is now Tier 1 or 2 — the gate follows the tier, not the original plan.
+If the tier changes, log it in `docs/DECISIONS.md` with the feature that changed it, and update the declaration above. The moment this repo holds a real client's data, it is Tier 1 — per `docs/GROWTH.md`, that data should instead live in a separate per-engagement repo so this repo never needs to re-tier.
 
 | Re-check date | Phase / trigger | Tier confirmed or changed | Notes |
 |---|---|---|---|
-| | | | |
+| 2026-08-27 | Scaffold | Confirmed — Tier 3 | Storefront only, no client data, no analytics |
 
 ---
 

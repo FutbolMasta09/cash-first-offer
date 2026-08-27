@@ -1,4 +1,4 @@
-# Project Configuration — [PROJECT NAME]
+# Project Configuration — Cash-first offer
 
 Fill this at project setup (Phase 2). Each decision triggers or skips downstream steps.
 Log final answers in `docs/DECISIONS.md` as early decision entries.
@@ -14,8 +14,8 @@ How will pre-production be run for this project?
 - [ ] **Path C: Hybrid** — Use Idea Forge for specific stages, manual for others.
 - [ ] **Path D: Story-First Track** — Project is narrative/prose-first and format (engine, platform, tech stack) isn't decided yet. Skip Phases 3–5 (Pre-Production, Framework Scaffold, Rules Pack) entirely for now. Work stays in prose/outline docs until a defined prose milestone is hit (e.g. "first act drafted," "full outline complete") — only then does the project re-enter the runbook at Phase 2 to make the remaining decisions and choose a format.
 
-**Chosen path:** [A / B / C / D]
-**Rationale:** [Why this path for this project and this moment?]
+**Chosen path:** B — Manual, **with an explicit Phase 3 waiver** (see D001 in `docs/DECISIONS.md`). This is a paid service/offer experiment, not a software product — game-style GDD / Vertical Slice Spec / Sprint Tasks are waived. The "slice" is a live landing page + working payment links. Proposed as a named **Path E — Service / Offer Track** in `docs/RUNBOOK_FEEDBACK.md` for future reuse; not yet applied to the canonical runbook.
+**Rationale:** No BYOK pipeline needed for a docs+copy+static-page scaffold; Claude/Codex desktop implement directly from the pack's existing offer copy, monetization, and kill-criteria docs.
 
 **If Path D — Story-First Track:**
 - Prose milestone that triggers re-entry to the runbook: [e.g. "family interviews complete + first draft outline"]
@@ -45,8 +45,8 @@ Will this project have an Early Access / beta release before v1.0?
 - [ ] **Yes** — two-stage launch: EA release → feedback cycle → v1.0 release
 - [ ] **No** — single launch event
 
-**Chosen:** [Yes / No]
-**Rationale:** [Why EA or why not?]
+**Chosen:** No
+**Rationale:** Single launch event — a landing page goes live once, no staged rollout. `docs/EARLY_ACCESS_PLAN.md` not created.
 
 **If Yes — EA details:**
 - EA scope (what's in): [list]
@@ -74,9 +74,9 @@ What is the repo visibility and license model?
 - [ ] **Closed Source** — private repo, no external contributors
 - [ ] **Source Available** — public repo for transparency, restrictive license (no forks/commercial use)
 
-**Chosen:** [Open Source / Closed Source / Source Available]
-**License (if not closed):** [MIT / GPL-3.0 / Apache-2.0 / Custom: ______]
-**Rationale:** [Why this model?]
+**Chosen:** Closed Source
+**License (if not closed):** N/A
+**Rationale:** Private offer/pricing strategy and outreach records — no reason for public visibility or contributors.
 
 **Cascading effects if Open Source or Source Available (check off as handled):**
 - [ ] `LICENSE` file added to repo root
@@ -97,8 +97,8 @@ Will anyone else contribute code or content to this project?
 - [ ] **Solo** — Ryan only (AI tools are the implementation team)
 - [ ] **Collaborative** — one or more other humans will contribute
 
-**Chosen:** [Solo / Collaborative]
-**Collaborators (if any):** [Name — role]
+**Chosen:** Solo
+**Collaborators (if any):** None. Kira may make one optional promotional post per `PROJECT_CONTEXT.md` Capacity — not a co-founder or contributor to this repo.
 
 **Cascading effects if Collaborative (check off as handled):**
 - [ ] Branch strategy documented: `main` protected, feature branches required
@@ -118,9 +118,9 @@ Is this project running alongside another active project?
 - [ ] **Parallel** — sharing weekly hours with another active build
 - [ ] **Sequential** — this is the only active build project
 
-**Chosen:** [Parallel / Sequential]
-**If Parallel — other project:** [Project name]
-**Priority rule:** [This project wins / Other project wins / split: X% this / Y% other]
+**Chosen:** Sequential
+**If Parallel — other project:** N/A
+**Priority rule:** N/A — SD-018 already time-boxes this experiment (day-14 / day-30) against the rest of the studio portfolio; see parent `DECISION_LOG.md` and `studio-ops\docs\DECISIONS.md` SD-018/SD-018a.
 
 **Cascading effects if Parallel (check off as handled):**
 - [ ] `docs/WEEKLY_EXECUTION_TRACKER.md` updated: parallel project field + hour split
@@ -139,7 +139,7 @@ Will this project have external testing before launch?
 - [ ] **Yes — Closed beta** (invite-only)
 - [ ] **No** — internal testing only (Ryan + known testers)
 
-**Chosen:** [Public / Closed / No]
+**Chosen:** No
 **If Yes:**
 - Who: [target testers — community, friends, invite list]
 - When: [phase gate or date]
@@ -164,9 +164,9 @@ Does this project need its own legal/business structure, or does it fall under a
 - [ ] **New entity needed before first sale** — form before Steam page / store listing goes live
 - [ ] **Not yet decided** — revisit before first revenue event (Steam Direct fee paid, App Store submission, first sale)
 
-**Chosen:** [Existing / New / Not yet decided]
-**If New — target formation date:** [YYYY-MM-DD, rough estimate OK]
-**Rationale:** [Why this call for this project?]
+**Chosen:** Not needed for this experiment
+**If New — target formation date:** N/A
+**Rationale:** Personal sole-prop payments are acceptable per `docs/MONETIZATION.md`; no new legal entity required for this experiment.
 
 **Cascading effects if New entity needed (check off as handled):**
 - [ ] LLC filed (state, EIN obtained)
@@ -180,13 +180,13 @@ Does this project need its own legal/business structure, or does it fall under a
 
 | Decision | Choice | EA/OS/Collab specifics |
 |---|---|---|
-| Pre-production path | [A/B/C/D] | |
-| Early Access | [Yes/No] | |
-| Open Source | [Open/Closed/Source Available] | |
-| Solo/Collab | [Solo/Collab] | |
-| Parallel/Sequential | [Parallel/Sequential] | |
-| Playtest | [Public/Closed/No] | |
-| Business Entity | [Existing/New/Not yet decided] | |
+| Pre-production path | B (waived, proposed Path E) | GDD/Slice Spec/Sprint Tasks not applicable |
+| Early Access | No | |
+| Open Source | Closed | |
+| Solo/Collab | Solo | |
+| Parallel/Sequential | Sequential | Time-boxed by SD-018 day-14/day-30 |
+| Playtest | No | |
+| Business Entity | Not needed | Sole-prop payments |
 
-**All decisions logged in:** `docs/DECISIONS.md` as D00X entries
-**Config filled:** [YYYY-MM-DD] — Phase 2
+**All decisions logged in:** `docs/DECISIONS.md` D001
+**Config filled:** 2026-08-27 — Phase 2
