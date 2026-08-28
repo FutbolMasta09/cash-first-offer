@@ -38,6 +38,7 @@ Household cash in 7–30 days. First dollars = paid, scoped service. Owned produ
 11. [docs/AUDIT_REPO_SETUP_PLAN_2026-08-27.md](docs/AUDIT_REPO_SETUP_PLAN_2026-08-27.md) — audit record
 12. [docs/HANDOFF_REPO_SETUP_IMPLEMENT.md](docs/HANDOFF_REPO_SETUP_IMPLEMENT.md) — audit trail: Claude executed this to scaffold the repo
 13. [docs/GROWTH.md](docs/GROWTH.md) — later seams (clients/, kits/) — plans only, not built yet
+13b. [docs/FTF_CATALOG.md](docs/FTF_CATALOG.md) — Following the Ferrells product/service SKUs (brand lane; not the cash storefront)
 14. [docs/PAYMENT_LINKS.md](docs/PAYMENT_LINKS.md) — fill this weekend
 15. [docs/TARGET_AUDIENCE.md](docs/TARGET_AUDIENCE.md), [docs/STYLE_GUIDE.md](docs/STYLE_GUIDE.md) — for the landing build
 

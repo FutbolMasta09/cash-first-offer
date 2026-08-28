@@ -1,17 +1,15 @@
-# Last Session — 2026-08-27 (exit)
+# Last Session — 2026-08-28 (exit)
 
-**Status:** Repo + markdown intake done. Storefront not live. **Next task locked:** Amber-style HTML intake forms.  
+**Status:** FTF product catalog documented. Storefront + HTML intake still not live.  
 **Workflow:** Cursor = brain/plan; Claude/Codex desktop = implement/audit.
 
 ---
 
-## Done this session (cumulative)
+## Done this session
 
-- Cash-first strategy → SD-018 / SD-018a; capped private repo scaffolded and pushed
-- Offer copy, monetization, kill/outreach, growth rules, security Tier 3
-- `docs/CLIENT_PREFLIGHT.md` + `docs/CLIENT_INTAKE_TEMPLATE.md` (Amber *doc* pattern: duplicate master, one-shot intake text)
-- Clarified next build: **clickable HTML forms** (MC + text + send back), like Libby `AMBER_QUESTIONNAIRE_FORM_TEMPLATE.html` — not markdown-only
-- Exit handoffs written: `docs/HANDOFF_CURSOR_NEXT.md`, `docs/HANDOFF_CLIENT_INTAKE_HTML.md`
+- Added [`docs/FTF_CATALOG.md`](FTF_CATALOG.md) — Following the Ferrells SKUs by buyer, price band, this-month vs later
+- Pointer from [`docs/GROWTH.md`](GROWTH.md) and README read order
+- **First extra SKU (provisional):** #1 Kira UGC rate card after A/B payment live; runner-up #2 road-ready PDF bundle — Ryan/Kira can flip before build
 
 ## Not done
 
@@ -33,10 +31,11 @@
 
 ## Git
 
-Confirm tip before next session; commit this exit packet if not already on `origin/master`.
+Commit catalog docs if not already on `origin/master`.
 
 ## Known deferred
 
 - `clients/` / `kits/` folders — `docs/GROWTH.md`  
+- FTF SKUs #1–#8 build — `docs/FTF_CATALOG.md` (after A/B payment)  
 - Wiki overview — day-14  
 - Path E runbook adoption — feedback only  

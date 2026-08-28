@@ -2,6 +2,8 @@
 
 **Plans only.** Nothing in this file authorizes creating the folders it describes yet. Per D001 and the repo-setup audit (F03/F07/F14/F15), `clients/` and `kits/` are not created at scaffold — only when their trigger condition is actually met.
 
+**Following the Ferrells catalog:** product/service SKUs (buyer, price, this-month vs later) → [`FTF_CATALOG.md`](FTF_CATALOG.md). First extra SKU after A/B payment: UGC rate card (default) or road-ready PDF bundle — see that doc.
+
 ---
 
 ## `clients/` — separate repo per engagement, not a folder here
