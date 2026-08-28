@@ -77,3 +77,5 @@ Exit: update LAST_SESSION.md; ask commit/push.
 ## After Phase 1
 
 Phase 2: Fiverr + Upwork + outreach → day-14 review on 2026-09-10.
+
+**Parked — legal session (Ryan):** [`docs/HANDOFF_LEGAL_TERMS_NEXT_SESSION.md`](HANDOFF_LEGAL_TERMS_NEXT_SESSION.md) — service terms research, DIY enforceability, terms→payment flow, FTF category legal plan. Run after live Stripe or before heavy outreach.
