@@ -25,10 +25,12 @@ Household cash in 7–30 days. First dollars = paid, scoped service. Owned produ
 2. [docs/OFFER_COPY.md](docs/OFFER_COPY.md)
 3. [docs/MONETIZATION.md](docs/MONETIZATION.md)
 4. [docs/CLIENT_PREFLIGHT.md](docs/CLIENT_PREFLIGHT.md) — gates and rules before kickoff
-4b. [docs/CLIENT_INTAKE_TEMPLATE.md](docs/CLIENT_INTAKE_TEMPLATE.md) — Amber-style markdown intake master (duplicate; never fill)
-4c. [docs/HANDOFF_CLIENT_INTAKE_HTML.md](docs/HANDOFF_CLIENT_INTAKE_HTML.md) — **NEXT:** paste into Claude to build clickable HTML forms
-4d. [docs/HANDOFF_CURSOR_NEXT.md](docs/HANDOFF_CURSOR_NEXT.md) — bootstrap for the next Cursor chat
-4e. [docs/HANDOFF_PHASE_1_STOREFRONT.md](docs/HANDOFF_PHASE_1_STOREFRONT.md) — **NEXT SESSION:** payment links + landing + HTML intake
+4b. [docs/CLIENT_INTAKE_TEMPLATE.md](docs/CLIENT_INTAKE_TEMPLATE.md) — Amber-style markdown intake master (never fill)
+4c. [tools/CLIENT_INTAKE_FORM_TEMPLATE.html](tools/CLIENT_INTAKE_FORM_TEMPLATE.html) — generic clickable intake-form master (copy; never fill with a real job)
+4d. [tools/Package_A_Intake_Questions.html](tools/Package_A_Intake_Questions.html), [tools/Package_B_Intake_Questions.html](tools/Package_B_Intake_Questions.html) — blank client-facing working copies
+4e. [docs/CLIENT_INTAKE_SEND_INSTRUCTIONS.md](docs/CLIENT_INTAKE_SEND_INSTRUCTIONS.md) — test, host, and send the correct blank form
+4f. [docs/HANDOFF_CURSOR_NEXT.md](docs/HANDOFF_CURSOR_NEXT.md) — bootstrap for the next Cursor chat
+4g. [docs/HANDOFF_PHASE_1_STOREFRONT.md](docs/HANDOFF_PHASE_1_STOREFRONT.md) — **NEXT SESSION:** payment links + landing + HTML intake
 5. [docs/KILL_CRITERIA.md](docs/KILL_CRITERIA.md)
 5. [docs/OUTREACH_14_DAY.md](docs/OUTREACH_14_DAY.md) — Ryan executes this checklist
 6. [docs/HANDOFF_LANDING_PAGE.md](docs/HANDOFF_LANDING_PAGE.md) — paste into Claude/Codex desktop

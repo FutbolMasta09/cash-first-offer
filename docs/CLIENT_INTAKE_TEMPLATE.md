@@ -22,16 +22,16 @@ log of what was already sent.
 ## How to use
 
 1. **Payment first** — Package A: $497 cleared · Package B: $600 deposit cleared.
-2. **Duplicate, don’t edit this file:**
-   - **Package A:** Copy the “Package A — Client form” block into an email/DM,
-     **or** duplicate this file as e.g. `INTAKE_A_[FirstNameOrBiz]_YYYY-MM-DD.md`
-     on your machine / in a **private** note. Prefer **not** committing filled
-     A intakes into this repo (voice samples + business details = client data).
-   - **Package B:** Create/open the **separate client repo** (see `GROWTH.md`),
-     then save the filled intake there as `INTAKE.md` (or similar). Never store
-     their brief/content in `cash-first-offer`.
-3. Send **only** the client-facing form (the fenced block). Do not send this
-   how-to section, the completed log, or internal Ryan checklists.
+2. **Send a blank clickable working copy, not this master:**
+   - **Package A:** Use `tools/Package_A_Intake_Questions.html` after setting
+     its public-facing recipient email. Follow `docs/CLIENT_INTAKE_SEND_INSTRUCTIONS.md`.
+     Prefer **not** committing filled A intakes into this repo (voice samples +
+     business details = client data).
+   - **Package B:** Use `tools/Package_B_Intake_Questions.html`, then create/open
+     the **separate client repo** (see `GROWTH.md`) only after the intake and brief
+     gates are met. Never store their brief/content in `cash-first-offer`.
+3. Send only the client-facing clickable form or the matching fenced block. Do not
+   send this how-to section, the completed log, or internal Ryan checklists.
 4. Hard gate: do **not** start building until every field is filled (and for B,
    until they reply **BRIEF APPROVED** on your one-page brief).
 5. When they’re done, append a **non-PII** line to Completed Intakes at the
