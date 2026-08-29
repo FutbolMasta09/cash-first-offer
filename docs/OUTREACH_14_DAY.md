@@ -16,6 +16,8 @@ This file is the **runbook**. Cursor cannot create your Fiverr/Upwork accounts o
 - [x] Landing URL: https://futbolmasta09.github.io/cash-first-offer/
 - [x] Kit link smoke-tested on live landing (after deploy)
 - [x] Deposit link smoke-tested on live landing (after deploy)
+- [x] Service terms published → `landing/terms.html` + footer link (2026-08-29)
+- [x] Stripe clickable terms → Public details ToS URL + ToS checkbox on both payment links (2026-08-29)
 
 ## Day 0 — marketplace profiles (same copy)
 

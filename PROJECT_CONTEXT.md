@@ -1,7 +1,7 @@
 # Cash-first offer — Project Context
 
 **Version:** 1.0
-**Last updated:** 2026-08-29
+**Last updated:** 2026-08-29 (legal/terms complete)
 **Type:** Workflow Tool / experimental revenue-engine service offer (not a flagship product)
 **Status:** ACTIVE EXPERIMENT — SD-018 / SD-018a
 **Target platform:** Web (static landing) + Fiverr/Upwork marketplaces
@@ -43,9 +43,9 @@ Near-term household cash. Not creative IP. Not partner product. Not primary buil
 ## Current Phase
 
 **Phase 2 — Outreach (Days 1–14)** — clock started **2026-08-29** · Day-14 review **2026-09-12**
-- **Immediate next session:** service terms / legal — `docs/HANDOFF_LEGAL_TERMS_NEXT_SESSION.md` (before volume outreach)
-- **Then:** Fiverr/Upwork + 10–20 touches → `docs/OUTREACH_14_DAY.md`
+- **Immediate next:** Fiverr + Upwork profiles + 10–20 outreach touches → `docs/OUTREACH_14_DAY.md`
 - **Phase 1:** ✅ complete — landing, live Stripe, intake, smoke test
+- **Legal / terms:** ✅ complete — `landing/terms.html`, Florida governing law, Stripe clickable ToS checkbox (both links)
 
 ## Out of scope
 
@@ -64,10 +64,11 @@ Near-term household cash. Not creative IP. Not partner product. Not primary buil
 
 | Flag | Severity | Status |
 |---|---|---|
-| Live payment links | — | **Live** — wired in `PAYMENT_LINKS.md` + landing (2026-08-29) |
+| Live payment links | — | **Live** — `PAYMENT_LINKS.md` + landing (2026-08-29) |
 | Landing page | — | **Live** — https://futbolmasta09.github.io/cash-first-offer/ |
-| Service terms not published | MED | **Next session** — `docs/HANDOFF_LEGAL_TERMS_NEXT_SESSION.md` |
-| Outreach clock | — | Started **2026-08-29** · Day-14 **2026-09-12** — `docs/OUTREACH_14_DAY.md` |
+| Service terms | — | **Live** — https://futbolmasta09.github.io/cash-first-offer/terms.html · Stripe ToS checkbox on both links |
+| Fiverr / Upwork | MED | **Next** — Day 0 marketplace in `OUTREACH_14_DAY.md` |
+| Outreach volume | — | **In progress** — 0/10–20 touches · Day-14 **2026-09-12** |
 
 ## Architecture (short)
 
