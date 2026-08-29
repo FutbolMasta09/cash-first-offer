@@ -185,9 +185,17 @@ If providing content, link (view access):
 Anything that must be in v1 vs can wait:
 
 8. BRAND (optional but fill something)
-- Logo link (or “use text-only”):
-- Primary color hex or “default simple UI”:
-- Tone words (e.g. warm, direct, formal):
+Upload whatever you have — logos, screenshots, PDFs, or a zip of brand assets.
+Attach the same files to your email reply (email cannot attach them automatically).
+Or upload everything to Google Drive/Dropbox and paste a view link below.
+- Logo files (images, PDF, SVG, AI/EPS, or zip):
+  Or logo URL / “use text-only”:
+- Colors / brand-look files (screenshots, brand PDF, palette, or zip):
+  Or primary color hex (e.g. #2A5D4E) / “default simple UI”:
+- Tone / example files (PDF, Doc, image, or text):
+  Or 3–5 tone words (e.g. warm, direct, formal):
+
+When you send this reply by email, attach every file listed above to that email.
 
 9. DOMAIN
 - [ ] Free *.vercel.app URL for v1 is fine
