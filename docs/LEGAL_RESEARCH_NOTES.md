@@ -103,7 +103,7 @@ Package A/B targets **small businesses** (B2B-ish). B2B terms generally face few
 
 ### Stripe's own terms
 
-Stripe Payment Links are governed by **Stripe's** terms between Stripe and the merchant. Ryan's service terms govern the **consulting relationship** between Joel Ferre and the client — supplement, not replace, Stripe's processor terms. Do not store card data; Payment Links keep PCI scope minimal (already D001 / Tier 3).
+Stripe Payment Links are governed by **Stripe's** terms between Stripe and the merchant. Ryan's service terms govern the **consulting relationship** between Joel Ryan Ferrell and the client — supplement, not replace, Stripe's processor terms. Do not store card data; Payment Links keep PCI scope minimal (already D001 / Tier 3).
 
 ---
 

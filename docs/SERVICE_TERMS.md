@@ -1,8 +1,8 @@
 # Service Terms — Package A & Package B
 
-**Effective date:** [PUBLISH DATE — set when `landing/terms.html` goes live]  
+**Effective date:** August 29, 2026  
 **Version:** 1.0  
-**Provider:** Joel Ferre ("Provider," "we," "us") — sole proprietor  
+**Provider:** Joel Ryan Ferrell ("Provider," "we," "us") — sole proprietor  
 **Contact:** futbolmasta9@gmail.com  
 **Public URL (when published):** https://futbolmasta09.github.io/cash-first-offer/terms.html
 
@@ -188,9 +188,9 @@ If you terminate after work has started, Section 9 (Refunds) applies. If Provide
 
 ## 14. Disputes and governing law
 
-**Governing law:** State of **[CONFIRM STATE — Ryan to set before publish]**, without regard to conflict-of-law principles.
+**Governing law:** State of **Florida**, without regard to conflict-of-law principles.
 
-**Venue:** Exclusive jurisdiction in the state or federal courts located in **[CONFIRM COUNTY]**, **[CONFIRM STATE]**, and each party consents to personal jurisdiction there.
+**Venue:** Exclusive jurisdiction in the state or federal courts located in the **county where Provider maintains its principal place of business, Florida**, and each party consents to personal jurisdiction there.
 
 **Informal resolution:** Before filing suit, the parties agree to attempt good-faith resolution by email for **14 days**.
 
@@ -239,7 +239,7 @@ Live URLs as of 2026-08-29. Update this appendix if hosting changes.
 
 ### Ryan manual steps (not in repo)
 
-- [ ] Confirm governing state + county in Section 14  
-- [ ] Set effective date at top when publishing  
-- [ ] Add terms URL to Stripe product descriptions (Dashboard → Payment Links → each link)  
+- [x] Governing state: Florida (venue: county of Provider's principal place of business)
+- [x] Effective date: August 29, 2026
+- [ ] Add terms URL to Stripe product descriptions (Dashboard → Payment Links → each link) — Ryan manual; see `PAYMENT_LINKS.md`
 - [ ] Create Package B final $600 link when first client reaches handoff  
