@@ -1,7 +1,7 @@
 # 14-day outreach checklist
 
-**Start date:** Write actual start here after smoke test passes: ________________  
-**Day-14 review:** start + 14 days → target **2026-09-10** if started 2026-08-27  
+**Start date:** 2026-08-29  
+**Day-14 review:** 2026-09-12  
 **Owner:** Ryan  
 **Optional help:** one Kira promo post if it does not collide with her idea
 
@@ -14,8 +14,8 @@ This file is the **runbook**. Cursor cannot create your Fiverr/Upwork accounts o
 - [x] Create Stripe payment links → `docs/PAYMENT_LINKS.md` (live 2026-08-29)
 - [x] Landing page live
 - [x] Landing URL: https://futbolmasta09.github.io/cash-first-offer/
-- [ ] Kit link smoke-tested on live landing (after deploy)
-- [ ] Deposit link smoke-tested on live landing (after deploy)
+- [x] Kit link smoke-tested on live landing (after deploy)
+- [x] Deposit link smoke-tested on live landing (after deploy)
 
 ## Day 0 — marketplace profiles (same copy)
 

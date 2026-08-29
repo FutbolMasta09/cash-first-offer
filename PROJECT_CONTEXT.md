@@ -42,11 +42,10 @@ Near-term household cash. Not creative IP. Not partner product. Not primary buil
 
 ## Current Phase
 
-**Phase 1 — Storefront foundation (smoke test + outreach clock)**
-- **Done:** landing LIVE, intake LIVE, live Stripe wired — see `docs/PAYMENT_LINKS.md`
-- **Ryan closes Phase 1:** smoke test + write start date in `docs/OUTREACH_14_DAY.md` — `docs/HANDOFF_PHASE_1_FINISH.md` Steps 3–4
-- **Next session:** service terms / legal — `docs/HANDOFF_LEGAL_TERMS_NEXT_SESSION.md`
-- **Phase 2 (after Phase 1 close):** Fiverr/Upwork + outreach volume
+**Phase 2 — Outreach (Days 1–14)** — clock started **2026-08-29** · Day-14 review **2026-09-12**
+- **Immediate next session:** service terms / legal — `docs/HANDOFF_LEGAL_TERMS_NEXT_SESSION.md` (before volume outreach)
+- **Then:** Fiverr/Upwork + 10–20 touches → `docs/OUTREACH_14_DAY.md`
+- **Phase 1:** ✅ complete — landing, live Stripe, intake, smoke test
 
 ## Out of scope
 
@@ -67,7 +66,8 @@ Near-term household cash. Not creative IP. Not partner product. Not primary buil
 |---|---|---|
 | Live payment links | — | **Live** — wired in `PAYMENT_LINKS.md` + landing (2026-08-29) |
 | Landing page | — | **Live** — https://futbolmasta09.github.io/cash-first-offer/ |
-| Service terms not published | MED | Next session — `docs/HANDOFF_LEGAL_TERMS_NEXT_SESSION.md` |
+| Service terms not published | MED | **Next session** — `docs/HANDOFF_LEGAL_TERMS_NEXT_SESSION.md` |
+| Outreach clock | — | Started **2026-08-29** · Day-14 **2026-09-12** — `docs/OUTREACH_14_DAY.md` |
 
 ## Architecture (short)
 
