@@ -16,7 +16,8 @@
 - [x] Deposit link live
 - [x] Confirmation page points buyers to intake forms + futbolmasta9@gmail.com
 - [x] Links pasted into landing page (`landing/index.html`)
-- [ ] Stripe product descriptions include service terms URL (see below — Ryan Dashboard)
+- [x] Stripe product descriptions include service terms URL (updated in Dashboard 2026-08-29)
+- [x] Stripe Public details Terms URL + payment-link ToS checkbox (clickable on checkout — 2026-08-29)
 - [ ] Links pasted into Fiverr + Upwork + outreach posts (Phase 2)
 
 ## Notes
@@ -28,24 +29,21 @@ Buyer contact: **futbolmasta9@gmail.com** (landing footer + intake mailto)
 
 **Test links (do not use on public storefront):** Sandbox URLs in `docs/HANDOFF_STRIPE_TEST_LINKS_RESULT.md`.
 
-## Stripe product descriptions (add terms URL)
+## Stripe terms (clickable on checkout)
 
-**Dashboard:** [Payment Links](https://dashboard.stripe.com/payment-links) → each link → **Edit** → product **Description**.
+**Product descriptions are plain text** — URLs there are not clickable. Use Stripe's built-in flow instead:
 
-Append this line to the end of each description (keep existing copy above it):
+1. **Settings → Business → Public details → Terms of service URL**  
+   `https://futbolmasta09.github.io/cash-first-offer/terms.html` ✅ (set 2026-08-29)
+
+2. **Each Payment Link → Edit →** check **“Require customers to accept your terms of service”** → Update link  
+   - Kit ($497) ✅  
+   - Deposit ($600) ✅  
+
+Checkout shows a **clickable “Terms of Service”** link in the agreement checkbox (points to your terms page). Footer “Terms” may still be Stripe’s generic link — the checkbox link is the one that matters.
+
+## Stripe product descriptions (backup text — optional)
+
+Descriptions can still mention terms as plain text (not clickable). Append if desired:
 
 `Full service terms: https://futbolmasta09.github.io/cash-first-offer/terms.html`
-
-**Link 1 — AI Operating Kit ($497)** — full description:
-
-```
-AI operating kit: prompt library, one-page SOP, GPT/Claude Project tuned to client voice. Delivered in a weekend. Full service terms: https://futbolmasta09.github.io/cash-first-offer/terms.html
-```
-
-**Link 2 — Custom Mini-Tool deposit ($600)** — full description:
-
-```
-50% deposit for one-purpose internal web tool. ~7 days after deposit + approved brief. Final $600 before handoff. Full service terms: https://futbolmasta09.github.io/cash-first-offer/terms.html
-```
-
-*(Cursor cannot edit Stripe Dashboard — paste the blocks above in ~60 seconds.)*
