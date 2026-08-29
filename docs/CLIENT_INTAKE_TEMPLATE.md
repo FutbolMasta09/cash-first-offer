@@ -73,14 +73,18 @@ reply beats five partial ones.
 Chosen channels:
 
 4. VOICE SAMPLES (required)
-Paste 5–10 short examples below OR link one Google Doc:
+Paste real messages you already sent — not ideal copy. Good: a follow-up email,
+social caption, reply when someone asks price, thank-you text, or short listing
+description. Weak: “We are a leading provider of innovative solutions.” Aim for
+5–10 short pieces (about 2–6 sentences each). Copy from email, texts, or posts.
+Or share one Google Doc with anyone-with-link view access:
 - Sample 1:
 - Sample 2:
 - Sample 3:
 - Sample 4:
 - Sample 5:
 (Add more if you have them)
-OR Google Doc link (anyone-with-link view):
+OR Google Doc link (anyone-with-link view; use this if you have many samples in one doc):
 
 5. JOBS TO AUTOMATE
 List the repetitive writing/tasks you hate (bullets). Be specific:
