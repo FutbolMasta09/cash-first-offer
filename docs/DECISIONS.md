@@ -22,3 +22,27 @@ Repo created under **SD-018a** (parent `DECISION_LOG.md` and `studio-ops\docs\DE
 **Tradeoffs:** Considered keeping the pack as flat docs with no repo at all (rejected — Ryan wants a standing, reusable home for future bind-income reopenings, not just this one campaign) and considered the full unmodified project-starter template (rejected as overbuild for a one-page storefront — see `docs/HANDOFF_REPO_SETUP_PLAN_AUDIT.md` finding F05).
 
 **Status:** Active
+
+---
+
+## D002 — 2026-08-29 Service terms approach (Package A/B v1)
+
+**Decision:** Publish **DIY Service Terms** (`docs/SERVICE_TERMS.md` → `landing/terms.html`) with **layered acceptance**, not DocuSign or wet signature for v1 at $497 / $1,200.
+
+**Acceptance stack:**
+
+1. Public terms URL (footer + dedicated page)
+2. Landing copy: "By paying you agree to service terms"
+3. Stripe payment (consideration)
+4. Intake Done-check referencing terms URL (recommended)
+5. Package B: email **BRIEF APPROVED** locks SOW
+
+**Lawyer:** Optional **1-hour business attorney review** recommended before heavy outreach and before first Package B client (IP assignment, governing state). Not blocking publish of static terms page.
+
+**FTF:** Category-level templates planned in `docs/LEGAL_RESEARCH_NOTES.md` — UGC and digital-download terms **before** those SKUs go live, not now.
+
+**Rationale:** Sub-$5K fixed consulting engagements commonly use clear written terms + payment-as-acceptance; clickwrap on intake strengthens enforceability vs browsewrap footer-only. DocuSign adds friction without proportional risk reduction at this tier (see research notes).
+
+**Tradeoffs:** DIY terms may miss state-specific nuances — `[CONFIRM STATE]` placeholder until Ryan sets venue. Chargeback defense relies on keeping email/intake/brief trail.
+
+**Status:** Active
