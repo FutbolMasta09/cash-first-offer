@@ -1,6 +1,6 @@
 # 14-day outreach checklist
 
-**Start date:** 2026-08-27 (or the day payment links + landing page go live — write actual start here: ________)  
+**Start date:** Write actual start here after smoke test passes: ________________  
 **Day-14 review:** start + 14 days → target **2026-09-10** if started 2026-08-27  
 **Owner:** Ryan  
 **Optional help:** one Kira promo post if it does not collide with her idea
@@ -11,11 +11,11 @@ This file is the **runbook**. Cursor cannot create your Fiverr/Upwork accounts o
 
 ## Day 0 — foundation (same weekend)
 
-- [ ] Create Stripe / Lemon Squeezy / PayPal payment links → fill `PAYMENT_LINKS.md`
-- [ ] Paste `HANDOFF_LANDING_PAGE.md` into Claude or Codex desktop → get live URL
-- [ ] Landing URL: ________________________________
-- [ ] Kit link works
-- [ ] Deposit link works
+- [x] Create Stripe payment links → `docs/PAYMENT_LINKS.md` (live 2026-08-29)
+- [x] Landing page live
+- [x] Landing URL: https://futbolmasta09.github.io/cash-first-offer/
+- [ ] Kit link smoke-tested on live landing (after deploy)
+- [ ] Deposit link smoke-tested on live landing (after deploy)
 
 ## Day 0 — marketplace profiles (same copy)
 

@@ -26,21 +26,9 @@ publishes the `landing/` folder on every push to `master`.
 
 Live URL: **https://futbolmasta09.github.io/cash-first-offer/**
 
-## TODO before sharing the URL publicly — paste payment links
+## Payment links (live)
 
-The two CTA buttons currently point at placeholders (`#pay-kit`,
-`#pay-deposit`). Replace them once the Stripe / Lemon Squeezy / PayPal links
-are live (see [`../docs/PAYMENT_LINKS.md`](../docs/PAYMENT_LINKS.md)):
-
-1. Open [`index.html`](index.html).
-2. Find & replace **`#pay-kit`** → the **AI Operating Kit ($497)** payment URL.
-   It appears **twice** (hero button + Package A card). Replace both.
-3. Find & replace **`#pay-deposit`** → the **Custom Mini-Tool deposit ($600)**
-   payment URL. Also appears **twice** (hero + Package B card). Replace both.
-4. Commit and push. Pages redeploys automatically in ~1 minute.
-
-Quick check: search the file for `#pay-` — there should be **zero** matches
-left when both links are in.
+CTAs in [`index.html`](index.html) point at Stripe Payment Links — see [`../docs/PAYMENT_LINKS.md`](../docs/PAYMENT_LINKS.md). After changing URLs, commit and push; Pages redeploys in ~1 minute.
 
 ## What is intentionally NOT here
 

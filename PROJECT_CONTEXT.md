@@ -1,7 +1,7 @@
 # Cash-first offer — Project Context
 
 **Version:** 1.0
-**Last updated:** 2026-08-27
+**Last updated:** 2026-08-29
 **Type:** Workflow Tool / experimental revenue-engine service offer (not a flagship product)
 **Status:** ACTIVE EXPERIMENT — SD-018 / SD-018a
 **Target platform:** Web (static landing) + Fiverr/Upwork marketplaces
@@ -42,10 +42,11 @@ Near-term household cash. Not creative IP. Not partner product. Not primary buil
 
 ## Current Phase
 
-**Phase — Storefront + intake UX**
-- **Next task (locked):** Amber-style clickable HTML client intake forms — see `docs/HANDOFF_CLIENT_INTAKE_HTML.md` / `docs/HANDOFF_CURSOR_NEXT.md`
-- Parallel must-ship this week: live payment links + live landing URL
-- Current sprint also: Fiverr/Upwork + outreach once storefront can accept payment
+**Phase 1 — Storefront foundation (smoke test + outreach clock)**
+- **Done:** landing LIVE, intake LIVE, live Stripe wired — see `docs/PAYMENT_LINKS.md`
+- **Ryan closes Phase 1:** smoke test + write start date in `docs/OUTREACH_14_DAY.md` — `docs/HANDOFF_PHASE_1_FINISH.md` Steps 3–4
+- **Next session:** service terms / legal — `docs/HANDOFF_LEGAL_TERMS_NEXT_SESSION.md`
+- **Phase 2 (after Phase 1 close):** Fiverr/Upwork + outreach volume
 
 ## Out of scope
 
@@ -64,8 +65,9 @@ Near-term household cash. Not creative IP. Not partner product. Not primary buil
 
 | Flag | Severity | Status |
 |---|---|---|
-| Payment links not yet live | HIGH | Open — Ryan fills `docs/PAYMENT_LINKS.md` |
-| Landing page not yet built | HIGH | Open — `docs/HANDOFF_LANDING_PAGE.md` ready to paste into Claude/Codex |
+| Live payment links | — | **Live** — wired in `PAYMENT_LINKS.md` + landing (2026-08-29) |
+| Landing page | — | **Live** — https://futbolmasta09.github.io/cash-first-offer/ |
+| Service terms not published | MED | Next session — `docs/HANDOFF_LEGAL_TERMS_NEXT_SESSION.md` |
 
 ## Architecture (short)
 
