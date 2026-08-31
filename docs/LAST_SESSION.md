@@ -1,44 +1,31 @@
-# Last Session — 2026-08-31 (outreach channel revision)
+# Last Session — 2026-08-31 (Plan A + Stan Store)
 
-**Status:** D003 channel strategy implemented. Fiverr/Upwork deprioritized; warm/community channels elevated.
-**Next:** Ryan executes Tier 1–2 outreach — see `OUTREACH_14_DAY.md` weekly minimum
+**Status:** **Plan A chosen** (Kira). Stan Store = bio hub (in progress). Outreach clock **not started** until first touch / kickoff logged.
+**Next:** Kira builds Stan · start Plan A week-1 posts when ready · fill outreach start date in `OUTREACH_14_DAY.md`
 **Workflow:** Cursor = brain/plan; Claude/Codex desktop = implement/audit.
 
 ---
 
-## Done this session
+## Decisions
 
-- **D003** in [`DECISIONS.md`](DECISIONS.md) — deprioritize Fiverr/Upwork; Tier 1–2 primary
-- New [`OUTREACH_CHANNELS.md`](OUTREACH_CHANNELS.md) — tier ranking + rationale
-- Revised [`OUTREACH_14_DAY.md`](OUTREACH_14_DAY.md) — tiers, SWC/FB paste blocks, Fiverr/Upwork Day 10+
-- Updated [`TARGET_AUDIENCE.md`](TARGET_AUDIENCE.md), [`PROJECT_CONTEXT.md`](../PROJECT_CONTEXT.md)
-- Paste blocks in [`OFFER_COPY.md`](OFFER_COPY.md) — Facebook group, SWC, warm intro
-- Updated [`HANDOFF_OUTREACH_NEXT_SESSION.md`](HANDOFF_OUTREACH_NEXT_SESSION.md), [`DAY_14_KILL_REVIEW.md`](DAY_14_KILL_REVIEW.md)
+| Item | Choice |
+|------|--------|
+| Social plan | **Plan A — high-touch** (2026-08-31) |
+| Bio link hub | **Stan Store** (Kira — all FTF products over time) |
+| Outreach clock | Not started — log start date on first touch |
 
-## Channel priority (D003)
+## Plan A reminder (Kira executes — her final say on details)
 
-| Tier | Channels |
-|------|----------|
-| **1** | Local/warm, FTF/Kira, Facebook groups |
-| **2** | SWC, Reddit, Discord |
-| **3** | Fiverr/Upwork — Day 10+ only if silent |
+- Bio + Stan when live (Services tile → landing until Stan checkout ready)
+- **Week 1:** behind-the-build Reel · Package A carousel · soft CTA Story
+- Keep ~70% lifestyle — she needs regular posting volume (3–5×/week ideal)
+- Package B: landing/DMs only, not feed pricing
+- Ryan: payment + intake after qualified DM
 
-## Ryan — this week (execute)
+## Ryan — parallel outreach (D003)
 
-- [ ] 3 local/warm messages
-- [ ] 1 Reddit r/forhire or Facebook group touch
-- [ ] 1 SWC quiet post or 3 DMs
-- [ ] Show Kira `HANDOFF_FTF_SOCIAL_PROMO.md` when ready
-- [ ] Skip Fiverr/Upwork unless Day 10 (~Sep 8) and zero serious conversations
-- [ ] Log all touches in `OUTREACH_14_DAY.md`
-
-## Experiment clock
-
-| Milestone | Date |
-|-----------|------|
-| Day-14 review | **2026-09-12** |
-| Day-10 marketplace fallback gate | ~**2026-09-08** |
+Still Tier 1–2 when clock starts: local/warm, FB groups, SWC, Reddit/Discord — not Fiverr/Upwork until Day 10+ if silent.
 
 ## Git
 
-- Pushed **`385a3b1`** — D003 outreach channel revision
+- Pushed **`540550a`** � Plan A chosen, Stan hub, outreach clock reset, cast page

@@ -51,14 +51,14 @@ Promote Package A/B on **Following the Ferrells** socials (Instagram, TikTok, Fa
 
 ## Step 1 — Ryan: link-in-bio hub (before Kira posts)
 
-Use Linktree, Stan, Beacons, or native multi-link. **Do not** make the cash-first landing the only bio link.
+Use Linktree, **Stan** (Kira’s choice — in progress), Beacons, or native multi-link. **Do not** make the cash-first landing the only bio link.
 
 ### Suggested link order
 
 | # | Label | URL | Status |
 |---|-------|-----|--------|
 | 1 | Lady's RV Adventure | _(app/listing URL when live)_ | |
-| 2 | **Work with us** / **Services** | https://futbolmasta09.github.io/cash-first-offer/ | |
+| 2 | **Work with us** / **Services** | https://futbolmasta09.github.io/cash-first-offer/ _(→ Stan tile when live)_ | |
 | 3 | Kira UGC | _(future — SKU #1 in FTF_CATALOG)_ | |
 | 4 | Shop / Downloads | _(future — SKU #2)_ | |
 
@@ -78,9 +78,11 @@ Use Linktree, Stan, Beacons, or native multi-link. **Do not** make the cash-firs
 
 **Status:** Not chosen yet — decide together after Ryan reviews [`FTF_SOCIAL_PRE_KIRA_AUDIT.md`](FTF_SOCIAL_PRE_KIRA_AUDIT.md).
 
+**Update 2026-08-31:** **Plan A chosen.** Stan Store = bio hub (Kira building).
+
 Check **one**:
 
-- [ ] **Plan A — High-touch** — 2–3 service-adjacent posts in first 14 days, then ~1 every 1–2 weeks
+- [x] **Plan A — High-touch** — 2–3 service-adjacent posts in first 14 days, then ~1 every 1–2 weeks
 - [ ] **Plan B — Less is more** — bio update + **one** flagship post in 14-day window + Stories sparingly
 
 **Recommendation:** Plan B unless Kira is already filming "how we work" content this week — then Plan A fits naturally.
@@ -91,7 +93,7 @@ Check **one**:
 | Feed feel | Lifestyle + behind-the-build | Mostly lifestyle; services in bio |
 | Risk | Salesy if overdone | Lower reach — needs strong bio |
 
-**Chosen plan (fill in):** Plan ___ · Date decided: ___________
+**Chosen plan (fill in):** Plan **A** · Date decided: **2026-08-31** · Bio hub: **Stan Store** (in progress — Kira)
 
 ---
 

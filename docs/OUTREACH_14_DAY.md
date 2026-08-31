@@ -1,14 +1,24 @@
 # 14-day outreach checklist
 
-**Start date:** 2026-08-29  
-**Day-14 review:** 2026-09-12  
+**Start date:** **Not started** (as of 2026-08-31 — pending Ryan + Kira kickoff)  
+**Day-14 review:** **TBD** — fill when clock starts: start date + 14 days  
 **Owner:** Ryan  
 **Channel strategy:** D003 · tier ranking → [`OUTREACH_CHANNELS.md`](OUTREACH_CHANNELS.md)  
-**FTF social:** Kira per [`HANDOFF_FTF_SOCIAL_PROMO.md`](HANDOFF_FTF_SOCIAL_PROMO.md) — plans are suggestions; she has final say.
+**FTF social:** Kira · **Plan A** · Stan Store bio hub (in progress) · [`HANDOFF_FTF_SOCIAL_PROMO.md`](HANDOFF_FTF_SOCIAL_PROMO.md)
 
 This file is the **runbook + touch log**. Check boxes as you go.
 
 **Landing URL:** https://futbolmasta09.github.io/cash-first-offer/
+
+### Start the clock
+
+When you and Kira are ready to begin outreach, record here (same day as first touch or agreed kickoff):
+
+| | Date |
+|---|------|
+| **Outreach start** | _____________ |
+| **Day-14 review** | _____________ (start + 14 days) |
+| **Day-10 gate** (Fiverr/Upwork fallback) | _____________ (start + 10 days) |
 
 ---
 

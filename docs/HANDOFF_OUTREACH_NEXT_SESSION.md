@@ -11,7 +11,7 @@
 
 **Get outreach volume going.** No more storefront or legal builds unless something is broken.
 
-Success = **Tier 1–2 outreach active** and 10–20 real touches logged by Day-14 (**2026-09-12**), with ≥1 paid deposit **or** a documented pivot per `KILL_CRITERIA.md`. Fiverr/Upwork optional per D003.
+Success = **Tier 1–2 outreach active** and 10–20 real touches logged by **Day-14** (outreach start + 14 days), with ≥1 paid deposit **or** a documented pivot per `KILL_CRITERIA.md`. Fiverr/Upwork optional per D003.
 
 ---
 
@@ -21,8 +21,8 @@ Success = **Tier 1–2 outreach active** and 10–20 real touches logged by Day-
 |-------|--------|
 | Phase 1 storefront | ✅ Live |
 | Legal / terms | ✅ Complete (D002) |
-| Outreach clock | Started **2026-08-29** |
-| Day-14 review | **2026-09-12** |
+| Outreach clock | **Not started** — pending Ryan + Kira kickoff |
+| Day-14 review | **TBD** — start + 14 days |
 | Experiment end | **2026-09-26** |
 | Outreach touches logged | **0 / 10–20** |
 | Channel strategy | D003 — [`OUTREACH_CHANNELS.md`](OUTREACH_CHANNELS.md) |
@@ -156,7 +156,7 @@ From `OFFER_COPY.md` — keep answers short:
 
 ---
 
-## After Day-14 (2026-09-12)
+## After Day-14 (outreach start + 14 days)
 
 Open `KILL_CRITERIA.md`. Same day:
 

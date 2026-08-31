@@ -15,7 +15,7 @@ Repo created under **SD-018a** (parent `DECISION_LOG.md` and `studio-ops\docs\DE
 
 **Explicitly not created:** `clients/` and `kits/` folders. Both are premature — see `docs/GROWTH.md` for the plan (separate repo per client engagement; kit folder only after the Track B gate in `docs/OWNED_ARTIFACT_DECISION.md` is met). An empty `kits/` folder at scaffold would invite building a kit to avoid doing outreach, which `OWNED_ARTIFACT_DECISION.md` Rule 1 forbids.
 
-**Wiki overview deferred** to the day-14 review (2026-09-12) rather than created at scaffold — this experiment may be killed by then, and a wiki page for a killed experiment is stale-knowledge debt.
+**Wiki overview deferred** to the day-14 review (TBD from outreach start) rather than created at scaffold — this experiment may be killed by then, and a wiki page for a killed experiment is stale-knowledge debt.
 
 **Rationale:** SD-018/SD-018a authorize this as capped scaffolding for a 14/30-day paid-service experiment, not a software product. Building the full 30+ file project-starter template would cost time this experiment's own `KILL_CRITERIA.md` explicitly names as the failure mode ("building more product is how this fails when the problem is distribution").
 

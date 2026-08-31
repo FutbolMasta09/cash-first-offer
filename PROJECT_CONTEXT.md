@@ -1,7 +1,7 @@
 # Cash-first offer — Project Context
 
 **Version:** 1.0
-**Last updated:** 2026-08-31 (channel strategy D003)
+**Last updated:** 2026-08-31 (outreach clock not started; D003 channels)
 **Type:** Workflow Tool / experimental revenue-engine service offer (not a flagship product)
 **Status:** ACTIVE EXPERIMENT — SD-018 / SD-018a
 **Target platform:** Web (static landing) + Fiverr/Upwork marketplaces
@@ -18,7 +18,10 @@ A cash-first paid service offer (AI operating kit $497 / custom mini-tool $1,200
 Cash-first offer (AI operating kit + custom mini-tool)
 
 ## Stop dates
-Day 14 = 2026-09-12 · Day 30 = 2026-09-26
+
+**Experiment opened:** 2026-08-27 · **Day 30:** 2026-09-26 (unchanged)  
+**Outreach 14-day clock:** **Not started** as of 2026-08-31 — starts when Ryan + Kira kick off (log first touch or agreed date in [`docs/OUTREACH_14_DAY.md`](docs/OUTREACH_14_DAY.md))  
+**Day-14 review:** TBD — outreach start + 14 days
 
 ## Purpose
 
@@ -42,8 +45,8 @@ Near-term household cash. Not creative IP. Not partner product. Not primary buil
 
 ## Current Phase
 
-**Phase 2 — Outreach (Days 1–14)** — clock started **2026-08-29** · Day-14 review **2026-09-12**
-- **Immediate next:** Tier 1 outreach (local, Facebook groups, FTF/Kira) + Tier 2 (SWC, Reddit, Discord) → [`docs/OUTREACH_CHANNELS.md`](docs/OUTREACH_CHANNELS.md) · log in [`docs/OUTREACH_14_DAY.md`](docs/OUTREACH_14_DAY.md)
+**Phase 2 — Outreach (Days 1–14)** — clock **not started** (pending Ryan + Kira kickoff) · Day-14 review **TBD**
+- **Immediate next:** Talk to Kira → begin Tier 1 outreach → [`docs/OUTREACH_CHANNELS.md`](docs/OUTREACH_CHANNELS.md) · log in [`docs/OUTREACH_14_DAY.md`](docs/OUTREACH_14_DAY.md)
 - **Fiverr / Upwork:** optional Tier 3 — Day 10+ only if Tier 1–2 silent (D003)
 - **Phase 1:** ✅ complete — landing, live Stripe, intake, smoke test
 - **Legal / terms:** ✅ complete — `landing/terms.html`, Florida governing law, Stripe clickable ToS checkbox (both links)
@@ -71,7 +74,7 @@ Near-term household cash. Not creative IP. Not partner product. Not primary buil
 | Fiverr / Upwork | LOW | **Optional** — Tier 3, Day 10+ if silent · D003 |
 | FTF social (Kira) | MED | **Next** — `HANDOFF_FTF_SOCIAL_PROMO.md` · Codex audit done |
 | Warm / community outreach | MED | **Next** — local, FB groups, SWC, Reddit/Discord · `OUTREACH_CHANNELS.md` |
-| Outreach volume | — | **In progress** — 0/10–20 touches · Day-14 **2026-09-12** |
+| Outreach volume | — | **Not started** — 0/10–20 touches · clock starts at kickoff |
 
 ## Architecture (short)
 

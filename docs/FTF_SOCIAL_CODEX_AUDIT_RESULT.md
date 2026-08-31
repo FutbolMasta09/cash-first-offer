@@ -60,7 +60,7 @@ Cursor pre-audit F01–F03: **Confirmed** by Codex (F01 broadened to shared Stor
 | F01 | [`HANDOFF_FTF_SOCIAL_PROMO.md`](HANDOFF_FTF_SOCIAL_PROMO.md) — B demoted from public Reel/carousel/Story/Plan B flagship |
 | F02 | Reel + angle rotation: “custom GPT or Claude Project” |
 | F03 | Plan A gate: lifestyle volume requirement added |
-| F04 | Governance docs aligned to **2026-09-12** |
+| F04 | Governance docs aligned to **2026-09-12** — **superseded 2026-08-31:** outreach clock not started; Day-14 now TBD from kickoff |
 
 ---
 

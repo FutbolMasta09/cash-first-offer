@@ -2,7 +2,7 @@
 
 **Authority:** D003 · [`KILL_CRITERIA.md`](KILL_CRITERIA.md) · [`OUTREACH_14_DAY.md`](OUTREACH_14_DAY.md) (log)  
 **Updated:** 2026-08-31  
-**Goal:** 10–20 real touches by **2026-09-12** · ≥1 deposit or documented pivot
+**Goal:** 10–20 real touches by **Day-14 review** (start date + 14 days — set when outreach begins).
 
 ---
 

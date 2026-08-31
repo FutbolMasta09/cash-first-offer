@@ -1,6 +1,6 @@
 # Day-14 kill review
 
-**Review date (target):** 2026-09-12  
+**Review date (target):** TBD — outreach start + 14 days (clock not started as of 2026-08-31)  
 **Actual review date:** _______________  
 **Experiment opened:** 2026-08-27  
 **Authority:** SD-018 · `KILL_CRITERIA.md`
