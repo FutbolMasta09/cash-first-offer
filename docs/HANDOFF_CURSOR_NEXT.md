@@ -21,7 +21,9 @@
 
 ## Primary handoff — next session
 
-**[`docs/HANDOFF_OUTREACH_NEXT_SESSION.md`](HANDOFF_OUTREACH_NEXT_SESSION.md)**
+**Outreach (if clock running):** [`docs/HANDOFF_OUTREACH_NEXT_SESSION.md`](HANDOFF_OUTREACH_NEXT_SESSION.md)
+
+**Service/product expansion planning:** [`docs/HANDOFF_SERVICE_PRODUCT_EXPANSION.md`](HANDOFF_SERVICE_PRODUCT_EXPANSION.md) — ranked menu beyond Package A/B; planning only.
 
 Runbook + log: [`docs/OUTREACH_14_DAY.md`](OUTREACH_14_DAY.md)
 

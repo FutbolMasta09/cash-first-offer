@@ -87,7 +87,7 @@ Static landing page only (no SaaS, no auth, no database). Payment Links (Stripe/
 | `PROJECT_CONTEXT.md` | This file — project brain |
 | `docs/DECISIONS.md` | Decision log (D001 = scope/waiver; D004 = FTF brand) |
 | `docs/Following the Ferrells — Brand & Content Handoff.md` | Kira brand authority (D004) |
-| `docs/FTF_CATALOG.md` | FTF SKUs + brand summary |
+| `docs/HANDOFF_SERVICE_PRODUCT_EXPANSION.md` | Next planning session — expand services/products beyond A/B |
 | `docs/LAST_SESSION.md` | Most recent handoff |
 | `docs/KILL_CRITERIA.md` | When to change offer/channel/price or kill |
 | `docs/OUTREACH_CHANNELS.md` | Tier 1/2/3 channel ranking (D003) |
