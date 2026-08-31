@@ -8,7 +8,7 @@ Authored from `docs/OFFER_COPY.md` "who this is for" / "who this is not for" —
 
 **Who:** Owners of small service businesses (1–10 people) — agencies, restaurants, trades, coaches, shops.
 **What they need:** They waste hours on repetitive writing, intake, training, or content calendars, and are "busy, not AI curious" — they want something they click and use, not a strategy PDF or a course.
-**Where they are:** Fiverr, Upwork, small-business Reddit/Discord communities, referrals.
+**Where they are:** Referrals and warm intros, Facebook groups (where owners already ask for help), Reddit/Discord communities Ryan reads, SWC network (quiet), Following the Ferrells social (creator/small-biz audience). **Optional / low priority:** Fiverr, Upwork — race-to-bottom dynamics; see D003 and [`OUTREACH_CHANNELS.md`](OUTREACH_CHANNELS.md).
 **What they pay:** Used to paying fixed prices for scoped deliverables, not subscriptions or open-ended retainers. Price-sensitive enough that packages are priced at $497 / $1,200 flat, not hourly.
 
 ---

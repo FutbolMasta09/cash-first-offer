@@ -46,3 +46,17 @@ Repo created under **SD-018a** (parent `DECISION_LOG.md` and `studio-ops\docs\DE
 **Tradeoffs:** DIY terms may miss state-specific nuances — `[CONFIRM STATE]` placeholder until Ryan sets venue. Chargeback defense relies on keeping email/intake/brief trail.
 
 **Status:** Active
+
+---
+
+## D003 — 2026-08-31 Deprioritize Fiverr/Upwork for Phase 2 outreach
+
+**Decision:** Primary outreach channels for the 14-day experiment are **Tier 1–2 warm/community paths** — local referrals, FTF social (Kira), Facebook groups Ryan already uses, SWC network (quiet), Reddit/Discord communities Ryan already reads. **Fiverr and Upwork are optional Tier 3** — try only if Tier 1–2 produce zero serious conversations by **Day 10** (~2026-09-08). Do **not** lower prices to fit gig-marketplace dynamics.
+
+**Tier summary:** See [`docs/OUTREACH_CHANNELS.md`](OUTREACH_CHANNELS.md).
+
+**Rationale:** $497 / $1,200 fixed-scope installs compete poorly on race-to-bottom gig marketplaces; small service business owners more often buy via referrals, groups, and trusted creators — not Fiverr browse. Ryan's experience and peer reports align.
+
+**Tradeoffs:** Lose passive inbound from marketplace SEO — acceptable for a 14-day volume test. Revisit Fiverr/Upwork only on explicit **change channel** pivot or Day-10 silence fallback. Original Day 0 marketplace checklist superseded for priority, not deleted (still valid if chosen).
+
+**Status:** Active

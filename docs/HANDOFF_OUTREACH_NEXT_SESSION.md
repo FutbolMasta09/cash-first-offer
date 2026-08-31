@@ -11,7 +11,7 @@
 
 **Get outreach volume going.** No more storefront or legal builds unless something is broken.
 
-Success = Fiverr + Upwork live **and** 10–20 real outreach touches logged by Day-14 (**2026-09-12**), with ≥1 paid deposit **or** a documented pivot per `KILL_CRITERIA.md`.
+Success = **Tier 1–2 outreach active** and 10–20 real touches logged by Day-14 (**2026-09-12**), with ≥1 paid deposit **or** a documented pivot per `KILL_CRITERIA.md`. Fiverr/Upwork optional per D003.
 
 ---
 
@@ -25,7 +25,8 @@ Success = Fiverr + Upwork live **and** 10–20 real outreach touches logged by D
 | Day-14 review | **2026-09-12** |
 | Experiment end | **2026-09-26** |
 | Outreach touches logged | **0 / 10–20** |
-| Fiverr / Upwork | **Not started** |
+| Channel strategy | D003 — [`OUTREACH_CHANNELS.md`](OUTREACH_CHANNELS.md) |
+| Fiverr / Upwork | **Optional** — Tier 3, Day 10+ |
 
 ### Live URLs (copy-paste ready)
 
@@ -71,20 +72,24 @@ Exit: update LAST_SESSION.md; ask commit/push if docs changed.
 
 ## Ryan's job this session (execute in order)
 
-### Day 0 — marketplace (same weekend if possible)
+### Days 1–14 — volume (D003 channel priority)
 
-Authority: `docs/OUTREACH_14_DAY.md` Day 0 section · copy from `docs/OFFER_COPY.md`
+Authority: [`OUTREACH_CHANNELS.md`](OUTREACH_CHANNELS.md) · [`OUTREACH_14_DAY.md`](OUTREACH_14_DAY.md) · copy from [`OFFER_COPY.md`](OFFER_COPY.md)
 
-- [ ] **Fiverr gig** — Package A blurb, $497, link landing + Kit Stripe URL
-- [ ] **Upwork** — profile + one catalog/service item, same offer
-- [ ] Title ideas in `OUTREACH_14_DAY.md` if stuck
+**Tier 1 (start here):**
+- [ ] 3–5 local/warm personal messages
+- [ ] FTF social — Kira per `HANDOFF_FTF_SOCIAL_PROMO.md`
+- [ ] 2–3 Facebook group touches (groups you already use; follow rules)
 
-Use **public prices only**. Same copy everywhere — no custom quotes per stranger.
+**Tier 2:**
+- [ ] 1 SWC quiet post or 3–5 DMs
+- [ ] Reddit r/forhire + Discord DMs as needed
 
-### Days 1–14 — volume
+**Tier 3 (Day 10+ only if Tier 1–2 silent):**
+- [ ] Fiverr gig — Package A, $497
+- [ ] Upwork catalog item — same offer
 
-- [ ] **10–20 outreach actions** — log each row in `OUTREACH_14_DAY.md` table
-- [ ] Paste-ready posts in that file (Reddit r/forhire, Discord, soft ask)
+- [ ] **10–20 outreach actions** logged in `OUTREACH_14_DAY.md`
 - [ ] **Daily rhythm:** 15 min replies · 1–2 new outreaches if under 20 · **no rebuilding the product**
 
 ### Optional (not blocking)
@@ -96,10 +101,11 @@ Use **public prices only**. Same copy everywhere — no custom quotes per strang
 
 ## Acceptance criteria (outreach session "done enough")
 
-1. Fiverr gig **or** Upwork listing is **live** with correct URLs and $497 / $1,200 pricing.
-2. ≥**3** outreach touches logged (stretch: 10+ before Day-14).
+1. ≥**3** Tier 1–2 outreach touches logged (local, FB, SWC, Reddit, Discord, or FTF social).
+2. Stretch: **10+** touches before Day-14.
 3. `OUTREACH_14_DAY.md` table updated with dates/channels.
 4. No new repo code unless fixing a broken live URL.
+5. Fiverr/Upwork **not required** unless Day 10+ fallback (D003).
 
 **Stop condition:** Do not spend another session on marketplace SEO, logo design, or offer rebranding until ≥10 touches are logged or Day-14 forces a pivot.
 
@@ -146,7 +152,7 @@ From `OFFER_COPY.md` — keep answers short:
 2. `docs/OUTREACH_14_DAY.md` — runbook + log  
 3. `docs/OFFER_COPY.md` — all public copy  
 4. `docs/KILL_CRITERIA.md` — Day-14 pivot/kill  
-5. `docs/DECISIONS.md` — D001 scope, D002 terms  
+5. `docs/DECISIONS.md` — D001 scope, D002 terms, D003 channels  
 
 ---
 

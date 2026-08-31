@@ -1,6 +1,6 @@
 # Offer copy — paste-ready
 
-**Use everywhere the same:** landing page, Fiverr, Upwork, Reddit, Discord. Do not invent custom quotes for every stranger. Public prices only.
+**Use everywhere the same:** landing page, Fiverr, Upwork, Reddit, Discord, Facebook groups, SWC (quiet). Do not invent custom quotes for every stranger. Public prices only.
 
 ---
 
@@ -102,6 +102,40 @@ I build a one-purpose internal web tool for your small business (calendar, intak
 ### After payment auto-reply (email or form confirmation)
 
 Thanks — payment received. Reply with: (1) business name, (2) what you sell, (3) the #1 repetitive task you want fixed, (4) Package A or B. I’ll send the one-page brief within 24 hours.
+
+---
+
+## Channel paste blocks (D003)
+
+Use the same public prices everywhere. Landing: https://futbolmasta09.github.io/cash-first-offer/
+
+### Facebook group (only if group rules allow)
+
+```
+Taking a small number of client installs this month — fixed packages, no open-ended retainers.
+
+I install a working AI workflow for small service businesses (prompt library, SOP, custom GPT or Claude Project) — $497, delivered in a weekend. One-purpose mini-tools also available for businesses that need a simple web app.
+
+Not brochure websites or “build my SaaS.” Details: https://futbolmasta09.github.io/cash-first-offer/
+```
+
+### SWC community — quiet ask
+
+Not a course pitch. One post or a few DMs max per [`FTF_CATALOG.md`](FTF_CATALOG.md).
+
+```
+Quick note for anyone here who runs or knows a small service business: I’m taking a few fixed-price AI workflow installs this month ($497 kit / custom mini-tool packages). Not pitching a course — just client work while I have bandwidth.
+
+Landing with scope + terms: https://futbolmasta09.github.io/cash-first-offer/
+
+Happy to answer questions in DM if it’s a fit.
+```
+
+### Soft local / warm intro
+
+```
+Hey — I’m taking a few paid installs this month: either a $497 AI operating kit or a $1,200 one-purpose web tool for a small business. If you know anyone who’d want that, I’d appreciate an intro. Link: https://futbolmasta09.github.io/cash-first-offer/
+```
 
 ---
 

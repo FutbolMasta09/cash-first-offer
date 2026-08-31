@@ -1,7 +1,7 @@
 # Cash-first offer — Project Context
 
 **Version:** 1.0
-**Last updated:** 2026-08-29 (legal/terms complete)
+**Last updated:** 2026-08-31 (channel strategy D003)
 **Type:** Workflow Tool / experimental revenue-engine service offer (not a flagship product)
 **Status:** ACTIVE EXPERIMENT — SD-018 / SD-018a
 **Target platform:** Web (static landing) + Fiverr/Upwork marketplaces
@@ -43,7 +43,8 @@ Near-term household cash. Not creative IP. Not partner product. Not primary buil
 ## Current Phase
 
 **Phase 2 — Outreach (Days 1–14)** — clock started **2026-08-29** · Day-14 review **2026-09-12**
-- **Immediate next:** Fiverr + Upwork profiles + 10–20 outreach touches → `docs/OUTREACH_14_DAY.md`
+- **Immediate next:** Tier 1 outreach (local, Facebook groups, FTF/Kira) + Tier 2 (SWC, Reddit, Discord) → [`docs/OUTREACH_CHANNELS.md`](docs/OUTREACH_CHANNELS.md) · log in [`docs/OUTREACH_14_DAY.md`](docs/OUTREACH_14_DAY.md)
+- **Fiverr / Upwork:** optional Tier 3 — Day 10+ only if Tier 1–2 silent (D003)
 - **Phase 1:** ✅ complete — landing, live Stripe, intake, smoke test
 - **Legal / terms:** ✅ complete — `landing/terms.html`, Florida governing law, Stripe clickable ToS checkbox (both links)
 
@@ -67,8 +68,9 @@ Near-term household cash. Not creative IP. Not partner product. Not primary buil
 | Live payment links | — | **Live** — `PAYMENT_LINKS.md` + landing (2026-08-29) |
 | Landing page | — | **Live** — https://futbolmasta09.github.io/cash-first-offer/ |
 | Service terms | — | **Live** — https://futbolmasta09.github.io/cash-first-offer/terms.html · Stripe ToS checkbox on both links |
-| Fiverr / Upwork | MED | **Next** — Day 0 marketplace in `OUTREACH_14_DAY.md` |
-| FTF social (Kira) | MED | **Next** — `HANDOFF_FTF_SOCIAL_PROMO.md` · Codex audit before first post |
+| Fiverr / Upwork | LOW | **Optional** — Tier 3, Day 10+ if silent · D003 |
+| FTF social (Kira) | MED | **Next** — `HANDOFF_FTF_SOCIAL_PROMO.md` · Codex audit done |
+| Warm / community outreach | MED | **Next** — local, FB groups, SWC, Reddit/Discord · `OUTREACH_CHANNELS.md` |
 | Outreach volume | — | **In progress** — 0/10–20 touches · Day-14 **2026-09-12** |
 
 ## Architecture (short)
@@ -83,6 +85,7 @@ Static landing page only (no SaaS, no auth, no database). Payment Links (Stripe/
 | `docs/DECISIONS.md` | Decision log (D001 = scope/waiver) |
 | `docs/LAST_SESSION.md` | Most recent handoff |
 | `docs/KILL_CRITERIA.md` | When to change offer/channel/price or kill |
+| `docs/OUTREACH_CHANNELS.md` | Tier 1/2/3 channel ranking (D003) |
 | `docs/GROWTH.md` | Later seams (clients/, kits/) — plans only |
 
 ## AI Tool Routing

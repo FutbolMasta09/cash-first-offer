@@ -1,42 +1,44 @@
-# Last Session — 2026-08-31 (Codex social audit)
+# Last Session — 2026-08-31 (outreach channel revision)
 
-**Status:** Codex audit **complete** — PASS WITH NOTES. Copy fixes applied. Safe to show Kira both plans.
-**Next:** Ryan shows Kira both plans → pick A or B → link hub → post → log
+**Status:** D003 channel strategy implemented. Fiverr/Upwork deprioritized; warm/community channels elevated.
+**Next:** Ryan executes Tier 1–2 outreach — see `OUTREACH_14_DAY.md` weekly minimum
 **Workflow:** Cursor = brain/plan; Claude/Codex desktop = implement/audit.
 
 ---
 
 ## Done this session
 
-- Recorded Codex audit: [`FTF_SOCIAL_CODEX_AUDIT_RESULT.md`](FTF_SOCIAL_CODEX_AUDIT_RESULT.md)
-- Applied F01–F03 fixes in [`HANDOFF_FTF_SOCIAL_PROMO.md`](HANDOFF_FTF_SOCIAL_PROMO.md) and [`OUTREACH_14_DAY.md`](OUTREACH_14_DAY.md)
-- F04: Day-14 aligned to **2026-09-12** across governance docs (was 2026-09-10 in some files)
-- Kira authority: plans A/B are **suggestions**; she has final say on how to advertise (promo handoff + outreach runbook)
+- **D003** in [`DECISIONS.md`](DECISIONS.md) — deprioritize Fiverr/Upwork; Tier 1–2 primary
+- New [`OUTREACH_CHANNELS.md`](OUTREACH_CHANNELS.md) — tier ranking + rationale
+- Revised [`OUTREACH_14_DAY.md`](OUTREACH_14_DAY.md) — tiers, SWC/FB paste blocks, Fiverr/Upwork Day 10+
+- Updated [`TARGET_AUDIENCE.md`](TARGET_AUDIENCE.md), [`PROJECT_CONTEXT.md`](../PROJECT_CONTEXT.md)
+- Paste blocks in [`OFFER_COPY.md`](OFFER_COPY.md) — Facebook group, SWC, warm intro
+- Updated [`HANDOFF_OUTREACH_NEXT_SESSION.md`](HANDOFF_OUTREACH_NEXT_SESSION.md), [`DAY_14_KILL_REVIEW.md`](DAY_14_KILL_REVIEW.md)
 
-## Codex verdict
+## Channel priority (D003)
 
-| | |
-|--|--|
-| Plan A | PASS WITH NOTES |
-| Plan B | PASS WITH NOTES |
-| Safe to show Kira? | **Yes** |
-| Safe to publish old copy? | **No** — use updated handoff |
+| Tier | Channels |
+|------|----------|
+| **1** | Local/warm, FTF/Kira, Facebook groups |
+| **2** | SWC, Reddit, Discord |
+| **3** | Fiverr/Upwork — Day 10+ only if silent |
 
-## Key findings (resolved in docs)
+## Ryan — this week (execute)
 
-| ID | Fix |
-|----|-----|
-| F01 | B demoted from public feed; landing/DMs only |
-| F02 | “GPT or Claude Project” in Reel |
-| F03 | Plan A gate: needs 3–5×/week lifestyle posts |
-| F04 | Day-14 = 2026-09-12 everywhere active |
+- [ ] 3 local/warm messages
+- [ ] 1 Reddit r/forhire or Facebook group touch
+- [ ] 1 SWC quiet post or 3 DMs
+- [ ] Show Kira `HANDOFF_FTF_SOCIAL_PROMO.md` when ready
+- [ ] Skip Fiverr/Upwork unless Day 10 (~Sep 8) and zero serious conversations
+- [ ] Log all touches in `OUTREACH_14_DAY.md`
 
-## Ryan + Kira (your move)
+## Experiment clock
 
-1. Show both plans from [`HANDOFF_FTF_SOCIAL_PROMO.md`](HANDOFF_FTF_SOCIAL_PROMO.md) (updated copy)
-2. Pick Plan A or B — Codex leans **Plan B** unless steady lifestyle content
-3. Link hub → post → log in `OUTREACH_14_DAY.md` (Plan B = 1 touch; still need 10–20 total)
+| Milestone | Date |
+|-----------|------|
+| Day-14 review | **2026-09-12** |
+| Day-10 marketplace fallback gate | ~**2026-09-08** |
 
 ## Git
 
-- Uncommitted doc changes — commit on approval
+- Uncommitted — commit on approval

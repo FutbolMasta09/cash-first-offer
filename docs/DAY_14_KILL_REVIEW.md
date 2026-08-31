@@ -15,8 +15,13 @@ Fill this on day 14. Do not skip. Do not “keep building” without a written c
 |---|---|
 | Landing page live? | Y/N — URL: |
 | Payment links live? | Y/N |
-| Fiverr gig live? | Y/N |
-| Upwork profile/service live? | Y/N |
+| Local / warm touches | |
+| Facebook group touches | |
+| SWC touches | |
+| Reddit / Discord touches | |
+| FTF social posts (Kira) | |
+| Fiverr gig live? | Y/N — optional Tier 3 |
+| Upwork profile/service live? | Y/N — optional Tier 3 |
 | Outreach actions completed (of 10–20) | |
 | Replies / conversations | |
 | Fit calls | |
