@@ -1,31 +1,41 @@
-# Last Session â€” 2026-08-31 (Plan A + Stan Store)
+# Last Session ? 2026-08-31 (Kira brand handoff received)
 
-**Status:** **Plan A chosen** (Kira). Stan Store = bio hub (in progress). Outreach clock **not started** until first touch / kickoff logged.
-**Next:** Kira builds Stan Â· start Plan A week-1 posts when ready Â· fill outreach start date in `OUTREACH_14_DAY.md`
+**Status:** Kira returned brand & content handoff from ChatGPT · integrated as **D004** · Plan A + Stan unchanged · outreach clock **not started**
+**Next:** Kira builds Stan · Plan A posts when ready · Ryan Tier 1?2 outreach when clock starts · fill start date in `OUTREACH_14_DAY.md`
 **Workflow:** Cursor = brain/plan; Claude/Codex desktop = implement/audit.
 
 ---
 
-## Decisions
+## What happened
 
-| Item | Choice |
-|------|--------|
-| Social plan | **Plan A â€” high-touch** (2026-08-31) |
-| Bio link hub | **Stan Store** (Kira â€” all FTF products over time) |
-| Outreach clock | Not started â€” log start date on first touch |
+1. Ryan sent Kira [`HANDOFF_KIRA.txt`](HANDOFF_KIRA.txt) for her ChatGPT session.
+2. Kira returned [`Following the Ferrells ? Brand & Content Handoff.md`](Following%20the%20Ferrells%20%E2%80%94%20Brand%20%26%20Content%20Handoff.md) ? full FTF brand direction.
+3. Cursor integrated into **D004**, `FTF_CATALOG.md`, `PROJECT_CONTEXT.md`, social handoffs.
 
-## Plan A reminder (Kira executes â€” her final say on details)
+## Confirmed alignment (Kira doc ? Ryan offer)
 
-- Bio + Stan when live (Services tile â†’ landing until Stan checkout ready)
-- **Week 1:** behind-the-build Reel Â· Package A carousel Â· soft CTA Story
-- Keep ~70% lifestyle â€” she needs regular posting volume (3â€“5Ã—/week ideal)
-- Package B: landing/DMs only, not feed pricing
-- Ryan: payment + intake after qualified DM
+| Topic | Kira | Ryan docs |
+|-------|------|-------------|
+| Social plan | Plan A ? talk about it a bit more | ? Same |
+| Bio hub | Stan Store | ? Same |
+| Package A on feed | Lead with $497 kit | ? Same |
+| Package B | DM / landing, not feed pricing | ? Same |
+| Content balance | ~70 / 20 / 10 (guidelines) | ? Same |
+| Ryan?s role | Builder, payment, delivery | ? Same |
+| Kira?s role | Face, voice, strategy, DM triage | ? Same |
 
-## Ryan â€” parallel outreach (D003)
+## New context from Kira (brand ? not in Ryan handoff before)
 
-Still Tier 1â€“2 when clock starts: local/warm, FB groups, SWC, Reddit/Discord â€” not Fiverr/Upwork until Day 10+ if silent.
+- **Story:** Rebuilding after job loss; documenting path to freedom ? *Live Life Now Rather Than Later*
+- **Pillars:** Lifestyle/starting over · UGC journey · digital marketing · **Walmart Creator** (over TikTok Shop) · multiple income streams · Ryan AI (small slice) · future RV/travel (**back burner**)
+- **Philosophy:** Documenting, not pretending ? not gurus or full-time travelers yet
+- **TTD separation:** Take the Detour Travel = agency brand; do not mix into FTF feed
+
+## Ryan ? parallel outreach (D003)
+
+Tier 1?2 when clock starts: local/warm, FB groups, SWC, Reddit/Discord ? not Fiverr/Upwork until Day 10+ if silent.
 
 ## Git
 
-- Pushed **`2ba4783`** — Plan A chosen, Stan hub, outreach clock reset, cast page
+- Pushed **`10b70d3`** ? Kira handoff doc (md + txt)
+- Pending commit ? Kira brand handoff file + D004 integration

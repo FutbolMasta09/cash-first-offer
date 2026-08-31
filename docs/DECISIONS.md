@@ -60,3 +60,29 @@ Repo created under **SD-018a** (parent `DECISION_LOG.md` and `studio-ops\docs\DE
 **Tradeoffs:** Lose passive inbound from marketplace SEO — acceptable for a 14-day volume test. Revisit Fiverr/Upwork only on explicit **change channel** pivot or Day-10 silence fallback. Original Day 0 marketplace checklist superseded for priority, not deleted (still valid if chosen).
 
 **Status:** Active
+
+---
+
+## D004 — 2026-08-31 FTF brand & content direction (Kira handoff)
+
+**Decision:** [`Following the Ferrells — Brand & Content Handoff.md`](Following%20the%20Ferrells%20%E2%80%94%20Brand%20%26%20Content%20Handoff.md) is **authoritative for Following the Ferrells content strategy** — pillars, tone, content balance, brand separation, and social execution. Ryan’s cash-first docs govern **offer facts** ($497 / $1,200 scope, landing, payment, outreach logging); Kira’s doc governs **how the brand tells the story**.
+
+**Confirmed alignment (no conflict with SD-018 offer):**
+
+- **Plan A** social promo for Ryan’s services — small slice of feed, not gig-board identity
+- **Stan Store** = primary link-in-bio hub (Kira building)
+- **Package A ($497)** = public social lead; **Package B** = DM / landing primarily
+- **70 / 20 / 10** content balance — lifestyle/journey · behind-the-build · services/sales (guidelines)
+- **Documenting, not pretending** — not gurus, not full-time travelers yet, not AI experts teaching everyone
+- **Take the Detour Travel** = separate professional brand — do not mix agency content into FTF feed
+- **Walmart Creator / Influencer** prioritized over TikTok Shop for Kira’s affiliate lane
+- **RV / travel** = long-term story arc; **not** current positioning (“building toward that life,” not “we’re full-time RV travelers”)
+- **Income streams** (UGC, Walmart, affiliate, digital products, Ryan AI) = story pieces, not constant push on every post
+
+**Roles (Kira doc):** Kira = face, voice, content strategy, DM triage; Ryan = builder, landing, payment, intake, delivery.
+
+**Rationale:** Kira incorporated Ryan’s handoff into her ChatGPT plan and returned a brand-level doc that matches Plan A and offer scope while defining the full FTF narrative Ryan’s experiment docs did not cover.
+
+**Tradeoffs:** Cash-first repo holds FTF brand doc until a dedicated FTF repo exists (same as `FTF_CATALOG.md`).
+
+**Status:** Active

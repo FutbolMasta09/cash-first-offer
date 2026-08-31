@@ -1,7 +1,7 @@
 # Cash-first offer — Project Context
 
 **Version:** 1.0
-**Last updated:** 2026-08-31 (outreach clock not started; D003 channels)
+**Last updated:** 2026-08-31 (Kira brand handoff D004; outreach clock not started)
 **Type:** Workflow Tool / experimental revenue-engine service offer (not a flagship product)
 **Status:** ACTIVE EXPERIMENT — SD-018 / SD-018a
 **Target platform:** Web (static landing) + Fiverr/Upwork marketplaces
@@ -33,8 +33,8 @@ Near-term household cash. Not creative IP. Not partner product. Not primary buil
 
 ## Capacity
 
-- Ryan only (work downtime + nights/weekends)
-- Kira: optional one promotional post if it does not collide with her own idea — not a co-founder of this track
+- Ryan only (work downtime + nights/weekends) — client installs, landing, payment, intake, delivery
+- Kira — Plan A social partner (face/voice, content strategy, DM triage, Stan Store); **not** co-founder of cash-first track but active Tier-1 channel per D004 · see [`Following the Ferrells — Brand & Content Handoff.md`](docs/Following%20the%20Ferrells%20%E2%80%94%20Brand%20%26%20Content%20Handoff.md)
 - Prefer home machine for client-facing work, invoices, and other people's data
 
 ## Target Audience
@@ -45,8 +45,8 @@ Near-term household cash. Not creative IP. Not partner product. Not primary buil
 
 ## Current Phase
 
-**Phase 2 — Outreach (Days 1–14)** — clock **not started** (pending Ryan + Kira kickoff) · Day-14 review **TBD**
-- **Immediate next:** Talk to Kira → begin Tier 1 outreach → [`docs/OUTREACH_CHANNELS.md`](docs/OUTREACH_CHANNELS.md) · log in [`docs/OUTREACH_14_DAY.md`](docs/OUTREACH_14_DAY.md)
+**Phase 2 — Outreach (Days 1–14)** — clock **not started** (pending kickoff) · Day-14 review **TBD**
+- **Immediate next:** Kira builds Stan · Plan A posts when ready · Ryan Tier 1–2 outreach when clock starts → [`docs/OUTREACH_CHANNELS.md`](docs/OUTREACH_CHANNELS.md) · log in [`docs/OUTREACH_14_DAY.md`](docs/OUTREACH_14_DAY.md)
 - **Fiverr / Upwork:** optional Tier 3 — Day 10+ only if Tier 1–2 silent (D003)
 - **Phase 1:** ✅ complete — landing, live Stripe, intake, smoke test
 - **Legal / terms:** ✅ complete — `landing/terms.html`, Florida governing law, Stripe clickable ToS checkbox (both links)
@@ -72,7 +72,7 @@ Near-term household cash. Not creative IP. Not partner product. Not primary buil
 | Landing page | — | **Live** — https://futbolmasta09.github.io/cash-first-offer/ |
 | Service terms | — | **Live** — https://futbolmasta09.github.io/cash-first-offer/terms.html · Stripe ToS checkbox on both links |
 | Fiverr / Upwork | LOW | **Optional** — Tier 3, Day 10+ if silent · D003 |
-| FTF social (Kira) | MED | **Next** — `HANDOFF_FTF_SOCIAL_PROMO.md` · Codex audit done |
+| FTF social (Kira) | — | **Aligned** — Plan A + brand handoff received (D004) · Stan in progress |
 | Warm / community outreach | MED | **Next** — local, FB groups, SWC, Reddit/Discord · `OUTREACH_CHANNELS.md` |
 | Outreach volume | — | **Not started** — 0/10–20 touches · clock starts at kickoff |
 
@@ -85,7 +85,9 @@ Static landing page only (no SaaS, no auth, no database). Payment Links (Stripe/
 | File | Purpose |
 |---|---|
 | `PROJECT_CONTEXT.md` | This file — project brain |
-| `docs/DECISIONS.md` | Decision log (D001 = scope/waiver) |
+| `docs/DECISIONS.md` | Decision log (D001 = scope/waiver; D004 = FTF brand) |
+| `docs/Following the Ferrells — Brand & Content Handoff.md` | Kira brand authority (D004) |
+| `docs/FTF_CATALOG.md` | FTF SKUs + brand summary |
 | `docs/LAST_SESSION.md` | Most recent handoff |
 | `docs/KILL_CRITERIA.md` | When to change offer/channel/price or kill |
 | `docs/OUTREACH_CHANNELS.md` | Tier 1/2/3 channel ranking (D003) |

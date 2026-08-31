@@ -3,7 +3,7 @@
 **For:** Ryan (review + link hub first) · Kira (post after plan picked) · Codex desktop (optional second audit)  
 **Not for:** Cursor Task subagents · new landing builds · FTF SKU builds  
 **Date:** 2026-08-31  
-**Authority:** [`FTF_CATALOG.md`](FTF_CATALOG.md) · [`OFFER_COPY.md`](OFFER_COPY.md) · SD-018  
+**Authority:** [`FTF_CATALOG.md`](FTF_CATALOG.md) · [`OFFER_COPY.md`](OFFER_COPY.md) · [`Following the Ferrells — Brand & Content Handoff.md`](Following%20the%20Ferrells%20%E2%80%94%20Brand%20%26%20Content%20Handoff.md) (D004 — Kira brand) · SD-018  
 **Workflow:** Cursor = brain/plan; Claude/Codex desktop = implement/audit.
 
 ---
@@ -20,11 +20,12 @@ Ryan’s role: offer facts stay accurate ($497 / $1,200 scope, landing link, no 
 
 ## Ryan workflow
 
-1. **Codex now** — [`HANDOFF_FTF_SOCIAL_CODEX_AUDIT_BOTH_PLANS.md`](HANDOFF_FTF_SOCIAL_CODEX_AUDIT_BOTH_PLANS.md) (both plans, no choice yet)
-2. **Ryan** — read report; show Kira **both** plans when you’re ready
-3. **Later** — pick Plan A or B together → record Step 2 below → link hub → post
+1. ~~Codex both plans~~ — done · [`HANDOFF_FTF_SOCIAL_CODEX_AUDIT_BOTH_PLANS.md`](HANDOFF_FTF_SOCIAL_CODEX_AUDIT_BOTH_PLANS.md)
+2. ~~Show Kira both plans~~ — done · **Plan A chosen** 2026-08-31
+3. ~~Kira ChatGPT handoff~~ — done · [`HANDOFF_KIRA.md`](HANDOFF_KIRA.md) → Kira returned [`Following the Ferrells — Brand & Content Handoff.md`](Following%20the%20Ferrells%20%E2%80%94%20Brand%20%26%20Content%20Handoff.md) (D004)
+4. **Now:** Stan live · link hub · Plan A posts when Kira ready · log touches
 
-**Plan not chosen yet.**
+**Plan chosen:** Plan A · Stan Store · Kira brand doc = content authority
 
 ---
 
@@ -74,11 +75,9 @@ Use Linktree, **Stan** (Kira’s choice — in progress), Beacons, or native mul
 
 ---
 
-## Step 2 — Ryan + Kira: pick a plan (after Ryan audit)
+## Step 2 — Ryan + Kira: pick a plan ✅
 
-**Status:** Not chosen yet — decide together after Ryan reviews [`FTF_SOCIAL_PRE_KIRA_AUDIT.md`](FTF_SOCIAL_PRE_KIRA_AUDIT.md).
-
-**Update 2026-08-31:** **Plan A chosen.** Stan Store = bio hub (Kira building).
+**Status:** **Plan A chosen** 2026-08-31 · Stan Store = bio hub (Kira building) · Brand authority: [`Following the Ferrells — Brand & Content Handoff.md`](Following%20the%20Ferrells%20%E2%80%94%20Brand%20%26%20Content%20Handoff.md) (D004)
 
 Check **one**:
 

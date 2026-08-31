@@ -4,7 +4,25 @@
 **Brand home (for now):** this repo holds the catalog until a dedicated Following the Ferrells repo exists.  
 **Do not build new products from this doc until Package A/B can accept payment** — storefront + intake stay the cash clock.
 
-**Related:** [`OFFER_COPY.md`](OFFER_COPY.md) (Package A/B) · [`GROWTH.md`](GROWTH.md) · Lady's RV → `02-partner/ladys-rv-adventure`
+**Related:** [`OFFER_COPY.md`](OFFER_COPY.md) (Package A/B) · [`GROWTH.md`](GROWTH.md) · Lady's RV → `02-partner/ladys-rv-adventure` · **Brand authority (Kira):** [`Following the Ferrells — Brand & Content Handoff.md`](Following%20the%20Ferrells%20%E2%80%94%20Brand%20%26%20Content%20Handoff.md) (D004)
+
+---
+
+## Brand & content authority (Kira — 2026-08-31)
+
+Full doc: [`Following the Ferrells — Brand & Content Handoff.md`](Following%20the%20Ferrells%20%E2%80%94%20Brand%20%26%20Content%20Handoff.md). Summary for Ryan’s experiment docs:
+
+| Topic | Direction |
+|-------|-----------|
+| **Brand** | Husband-and-wife story — *Live Life Now Rather Than Later* — documenting how we’re building freedom, not performing as influencers |
+| **Content pillars** | (1) Lifestyle / starting over · (2) Kira UGC journey · (3) Digital marketing · (4) Walmart Creator *(prioritized over TikTok Shop)* · (5) Multiple income streams · (6) Ryan’s AI work *(small slice)* · (7) Future RV/travel *(back burner — building toward, not “already there”)* |
+| **Balance** | ~70% lifestyle/journey · ~20% behind-the-build · ~10% services/sales — guidelines, not rigid rules |
+| **Philosophy** | Documenting, not pretending — “come along while we figure this out,” not constant selling |
+| **TTD vs FTF** | **Take the Detour Travel** = professional travel agency (Disney, cruises, bookings). **Following the Ferrells** = personal brand. Do not mix agency content into FTF feed |
+| **Ryan’s offers on social** | Plan A — lead with **Package A $497** on feed; **Package B** primarily DM/landing |
+| **Infrastructure** | Stan Store = primary bio hub |
+
+Offer facts and outreach logging stay in [`OFFER_COPY.md`](OFFER_COPY.md) · [`HANDOFF_FTF_SOCIAL_PROMO.md`](HANDOFF_FTF_SOCIAL_PROMO.md).
 
 ---
 
@@ -21,7 +39,7 @@ Do **not** mash these buyers into one landing page.
 | **Creator tools** | Other creators | FTF catalog | Cousin to Package A, creator audience |
 | **SWC course resale** | Quiet option | Bio / “people ask” only | Never the channel theme |
 
-**Brand constraints:** live-life-now, travel, lifestyle, minimalism, pets, travel beauty; Honey Lane + Montserrat + earthy kit. Ryan builds/sells; Kira is face, UGC, and taste. **Do not use** Take the Detour agent-training IP.
+**Brand constraints:** *Live Life Now Rather Than Later*; lifestyle, pets (Lady), beauty, starting-over story; Honey Lane + Montserrat + earthy kit. Ryan builds/sells; Kira is face, voice, content strategy, UGC, Walmart Creator. **Travel/RV:** future arc — not “full-time travelers” positioning yet. **Do not mix** Take the Detour Travel agency content into FTF. **Do not use** Take the Detour agent-training IP.
 
 ---
 
@@ -67,9 +85,9 @@ Treat Etsy month-one as **extra cash**, not rent.
 ## Package A and B on the brand (for Kira)
 
 - **A** = weekend AI playbook (kit). **B** = one small web tool (build).  
-- On Following the Ferrells: “we run a digital business; we can set yours up too.”  
-- On the lifestyle feed: lead with **UGC, downloads, and Lady**. Lead with A/B only in a Services tab or when someone DMs “can you build this.”
-- **Social promo runbook:** [`HANDOFF_FTF_SOCIAL_PROMO.md`](HANDOFF_FTF_SOCIAL_PROMO.md) · **Codex audit both plans:** [`HANDOFF_FTF_SOCIAL_CODEX_AUDIT_BOTH_PLANS.md`](HANDOFF_FTF_SOCIAL_CODEX_AUDIT_BOTH_PLANS.md)
+- On Following the Ferrells: part of “building multiple income streams together” — not the whole brand identity.  
+- On the lifestyle feed: lead with **journey, UGC, Walmart, Lady, everyday life**. Ryan’s services = ~10% slice; **Package A ($497)** on feed when relevant; **Package B** via DM/landing.  
+- **Brand authority:** [`Following the Ferrells — Brand & Content Handoff.md`](Following%20the%20Ferrells%20%E2%80%94%20Brand%20%26%20Content%20Handoff.md) · **Social runbook:** [`HANDOFF_FTF_SOCIAL_PROMO.md`](HANDOFF_FTF_SOCIAL_PROMO.md) · **Kira ChatGPT input:** [`HANDOFF_KIRA.md`](HANDOFF_KIRA.md)
 
 ---
 

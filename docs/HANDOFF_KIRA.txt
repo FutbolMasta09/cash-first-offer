@@ -2,7 +2,9 @@
 
 **For:** Kira (paste into ChatGPT or read directly)  
 **Date:** 2026-08-31  
-**Status:** Plan A chosen for social promo · Stan Store = bio hub (you’re building) · Outreach clock not started yet
+**Status:** Plan A chosen · Stan Store in progress · Kira brand handoff received (D004) · Outreach clock not started yet
+
+**Kira’s brand authority (full story):** [`Following the Ferrells — Brand & Content Handoff.md`](Following%20the%20Ferrells%20%E2%80%94%20Brand%20%26%20Content%20Handoff.md) — pillars, philosophy, TTD separation, content balance. This doc covers **Ryan’s offers + Plan A social suggestions** only.
 
 ---
 
