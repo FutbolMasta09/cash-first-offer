@@ -18,7 +18,7 @@ A cash-first paid service offer (AI operating kit $497 / custom mini-tool $1,200
 Cash-first offer (AI operating kit + custom mini-tool)
 
 ## Stop dates
-Day 14 = 2026-09-10 · Day 30 = 2026-09-26
+Day 14 = 2026-09-12 · Day 30 = 2026-09-26
 
 ## Purpose
 
@@ -68,6 +68,7 @@ Near-term household cash. Not creative IP. Not partner product. Not primary buil
 | Landing page | — | **Live** — https://futbolmasta09.github.io/cash-first-offer/ |
 | Service terms | — | **Live** — https://futbolmasta09.github.io/cash-first-offer/terms.html · Stripe ToS checkbox on both links |
 | Fiverr / Upwork | MED | **Next** — Day 0 marketplace in `OUTREACH_14_DAY.md` |
+| FTF social (Kira) | MED | **Next** — `HANDOFF_FTF_SOCIAL_PROMO.md` · Codex audit before first post |
 | Outreach volume | — | **In progress** — 0/10–20 touches · Day-14 **2026-09-12** |
 
 ## Architecture (short)

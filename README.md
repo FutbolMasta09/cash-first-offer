@@ -2,7 +2,7 @@
 
 **Status:** ACTIVE EXPERIMENT (SD-018)  
 **Opened:** 2026-08-27  
-**Day-14 review:** 2026-09-10  
+**Day-14 review:** 2026-09-12  
 **Day-30 review:** 2026-09-26  
 **Lane:** Experimental + revenue engine  
 **Authority:** `C:\App Development\DECISION_LOG.md` (2026-08-27); `studio-ops\docs\DECISIONS.md` SD-018  
@@ -35,7 +35,7 @@ Household cash in 7–30 days. First dollars = paid, scoped service. Owned produ
 5. [docs/OUTREACH_14_DAY.md](docs/OUTREACH_14_DAY.md) — Ryan executes this checklist
 6. [docs/HANDOFF_LANDING_PAGE.md](docs/HANDOFF_LANDING_PAGE.md) — paste into Claude/Codex desktop
 7. [docs/OWNED_ARTIFACT_DECISION.md](docs/OWNED_ARTIFACT_DECISION.md)
-8. [docs/DAY_14_KILL_REVIEW.md](docs/DAY_14_KILL_REVIEW.md) — fill on 2026-09-10
+8. [docs/DAY_14_KILL_REVIEW.md](docs/DAY_14_KILL_REVIEW.md) — fill on 2026-09-12
 9. [docs/DAY_30_REVIEW.md](docs/DAY_30_REVIEW.md) — fill on 2026-09-26
 10. [docs/HANDOFF_REPO_SETUP_PLAN_AUDIT.md](docs/HANDOFF_REPO_SETUP_PLAN_AUDIT.md) — Claude audited the first repo plan (REVISE)
 11. [docs/AUDIT_REPO_SETUP_PLAN_2026-08-27.md](docs/AUDIT_REPO_SETUP_PLAN_2026-08-27.md) — audit record

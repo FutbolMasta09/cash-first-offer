@@ -69,6 +69,7 @@ Treat Etsy month-one as **extra cash**, not rent.
 - **A** = weekend AI playbook (kit). **B** = one small web tool (build).  
 - On Following the Ferrells: “we run a digital business; we can set yours up too.”  
 - On the lifestyle feed: lead with **UGC, downloads, and Lady**. Lead with A/B only in a Services tab or when someone DMs “can you build this.”
+- **Social promo runbook:** [`HANDOFF_FTF_SOCIAL_PROMO.md`](HANDOFF_FTF_SOCIAL_PROMO.md) · **Codex audit both plans:** [`HANDOFF_FTF_SOCIAL_CODEX_AUDIT_BOTH_PLANS.md`](HANDOFF_FTF_SOCIAL_CODEX_AUDIT_BOTH_PLANS.md)
 
 ---
 

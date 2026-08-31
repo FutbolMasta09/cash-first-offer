@@ -2,7 +2,7 @@
 
 **Experiment:** Cash-first offer  
 **Opened:** 2026-08-27  
-**Day 14:** 2026-09-10  
+**Day 14:** 2026-09-12  
 **Day 30:** 2026-09-26
 
 ## Hard rules

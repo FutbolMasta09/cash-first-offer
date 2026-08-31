@@ -20,7 +20,7 @@ Tracks security posture across the project lifecycle. Reference `C:\App Developm
 ### Tier re-check rule
 
 The tier is **not permanent**. Re-evaluate it:
-- At the day-14 (2026-09-10) and day-30 (2026-09-26) reviews (this project has no formal `PHASE_TRANSITION_GATES.md` — those two dates are the gate)
+- At the day-14 (**2026-09-12**) and day-30 (2026-09-26) reviews (this project has no formal `PHASE_TRANSITION_GATES.md` — those two dates are the gate)
 - Immediately when **any real client brief, name, contact info, or business data** enters this repo **by any route** — not only via a "client mini-tool." A brief pasted into a doc, a contact form submission saved to a file, or a client's business details in an outreach log all trigger this the same as a mini-tool would.
 - Immediately if the landing page adds: a hosted contact-form service (Formspree, Netlify/Vercel forms, etc.), any analytics/tracking SDK (GA, Plausible, etc.), or Stripe Elements / any payment integration beyond Payment Links
 

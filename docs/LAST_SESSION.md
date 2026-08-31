@@ -1,62 +1,42 @@
-# Last Session — 2026-08-29 (exit)
+# Last Session — 2026-08-31 (Codex social audit)
 
-**Status:** Legal / terms **complete.** Phase 2 outreach is the active track.
-**Next session:** Ryan executes outreach → `docs/HANDOFF_OUTREACH_NEXT_SESSION.md` · log in `docs/OUTREACH_14_DAY.md`
+**Status:** Codex audit **complete** — PASS WITH NOTES. Copy fixes applied. Safe to show Kira both plans.
+**Next:** Ryan shows Kira both plans → pick A or B → link hub → post → log
 **Workflow:** Cursor = brain/plan; Claude/Codex desktop = implement/audit.
 
 ---
 
-## Done this session (exit)
+## Done this session
 
-### Legal / terms (full arc — shipped)
+- Recorded Codex audit: [`FTF_SOCIAL_CODEX_AUDIT_RESULT.md`](FTF_SOCIAL_CODEX_AUDIT_RESULT.md)
+- Applied F01–F03 fixes in [`HANDOFF_FTF_SOCIAL_PROMO.md`](HANDOFF_FTF_SOCIAL_PROMO.md) and [`OUTREACH_14_DAY.md`](OUTREACH_14_DAY.md)
+- F04: Day-14 aligned to **2026-09-12** across governance docs (was 2026-09-10 in some files)
+- Kira authority: plans A/B are **suggestions**; she has final say on how to advertise (promo handoff + outreach runbook)
 
-- Research, `SERVICE_TERMS.md`, buyer journey, FTF legal roadmap, D002
-- `landing/terms.html` + landing links + intake checkboxes (Claude → Codex audit → pushed)
-- Florida governing law, effective date Aug 29 2026, provider **Joel Ryan Ferrell**
-- Stripe: product descriptions + Public details ToS URL + clickable ToS checkbox (both links)
-- Commits: `ac5b6a6` → `3d44b48` on `master`
+## Codex verdict
 
-### Exit housekeeping (this chat)
+| | |
+|--|--|
+| Plan A | PASS WITH NOTES |
+| Plan B | PASS WITH NOTES |
+| Safe to show Kira? | **Yes** |
+| Safe to publish old copy? | **No** — use updated handoff |
 
-- Roadmap updated: `PROJECT_CONTEXT.md`, `OUTREACH_14_DAY.md` Day 0 terms checked
-- Next handoff written: `docs/HANDOFF_OUTREACH_NEXT_SESSION.md`
-- Bootstrap updated: `docs/HANDOFF_CURSOR_NEXT.md`
+## Key findings (resolved in docs)
 
-## Experiment clock
+| ID | Fix |
+|----|-----|
+| F01 | B demoted from public feed; landing/DMs only |
+| F02 | “GPT or Claude Project” in Reel |
+| F03 | Plan A gate: needs 3–5×/week lifestyle posts |
+| F04 | Day-14 = 2026-09-12 everywhere active |
 
-| Milestone | Date |
-|-----------|------|
-| Outreach started | 2026-08-29 |
-| Day-14 review | **2026-09-12** |
-| Day-30 / kill | **2026-09-26** |
+## Ryan + Kira (your move)
 
-## Live URLs
-
-| Item | URL |
-|------|-----|
-| Landing | https://futbolmasta09.github.io/cash-first-offer/ |
-| Terms | https://futbolmasta09.github.io/cash-first-offer/terms.html |
-| Kit $497 | https://buy.stripe.com/6oU28k6rKd8IdFc1XncMM00 |
-| Deposit $600 | https://buy.stripe.com/fZu8wI9DW0lWgRo7hHcMM01 |
-
-## Next (Phase 2 — Ryan executes)
-
-1. Fiverr gig + Upwork listing (`OFFER_COPY.md` → landing + Stripe)
-2. 10–20 outreach touches — `OUTREACH_14_DAY.md` log
-3. Day-14 (Sep 12): deposit or documented pivot — `KILL_CRITERIA.md`
-
-## Blockers
-
-- None
+1. Show both plans from [`HANDOFF_FTF_SOCIAL_PROMO.md`](HANDOFF_FTF_SOCIAL_PROMO.md) (updated copy)
+2. Pick Plan A or B — Codex leans **Plan B** unless steady lifestyle content
+3. Link hub → post → log in `OUTREACH_14_DAY.md` (Plan B = 1 touch; still need 10–20 total)
 
 ## Git
 
-- Pushed through `3d44b48`
-- **Uncommitted at exit:** `PROJECT_CONTEXT.md`, `LAST_SESSION.md`, `OUTREACH_14_DAY.md`, `HANDOFF_OUTREACH_NEXT_SESSION.md`, `HANDOFF_CURSOR_NEXT.md` — commit on approval
-
-## Known deferred
-
-- Package B final $600 link (first client)
-- FTF UGC / digital-download legal templates
-- Optional attorney consult before heavy Package B
-- Optional: trim plain-text terms URL from Stripe product descriptions
+- Uncommitted doc changes — commit on approval

@@ -3,7 +3,7 @@
 **Start date:** 2026-08-29  
 **Day-14 review:** 2026-09-12  
 **Owner:** Ryan  
-**Optional help:** one Kira promo post if it does not collide with her idea
+**FTF social:** Kira promotes on Instagram, TikTok, Facebook per [`HANDOFF_FTF_SOCIAL_PROMO.md`](HANDOFF_FTF_SOCIAL_PROMO.md). **Plans A/B are suggestions only** — Kira has final say on how to advertise; she knows this audience.
 
 This file is the **runbook**. Cursor cannot create your Fiverr/Upwork accounts or post as you. Check boxes as you go.
 
@@ -68,11 +68,13 @@ Track below. Personal messages beat broadcast posts.
 
 ### Suggested channels (use what you already read)
 
+- **Following the Ferrells socials** — Instagram, TikTok, Facebook ([`HANDOFF_FTF_SOCIAL_PROMO.md`](HANDOFF_FTF_SOCIAL_PROMO.md); each post = 1 touch)
 - r/forhire (follow their rules; hire-me format)
 - Relevant small-business / indie Discord servers you already use
-- One Facebook group **only if** Kira is willing and it fits
 - Friends / Discord / gaming friends — soft ask only if the product fits (weak channel; still OK for Package A)
 - Indie Hackers / similar — only with the fixed offer, not “idea validation” posts
+
+**Facebook groups:** FTF page/profile only — no cold group spam (per social handoff)
 
 ---
 
@@ -114,13 +116,33 @@ Details: [URL]
 Hey — I’m taking a few paid installs this month to bring in cash: either a $497 AI operating kit or a $1,200 one-purpose web tool for a small business. If you know anyone who’d want that, I’d appreciate an intro. Link: [URL]
 ```
 
-### Optional Kira promo (one post max — she opts in)
+### Following the Ferrells — Kira social (primary promo track)
+
+Full runbook: [`HANDOFF_FTF_SOCIAL_PROMO.md`](HANDOFF_FTF_SOCIAL_PROMO.md) · Codex audit: [`HANDOFF_FTF_SOCIAL_AUDIT.md`](HANDOFF_FTF_SOCIAL_AUDIT.md)
+
+**Before first post:** Ryan link hub live · Plan A or B chosen · Codex **PASS**
+
+**Plan B single-post caption** (Package A only — Codex F01):
 
 ```
-Ryan is taking a small number of client installs: AI operating kits ($497) and one-purpose business mini-tools ($1,200). If you know a small business owner drowning in repetitive writing/intake/content busywork, send them this: [URL]
+Small announcement — Ryan is taking a few client installs this month as part of our digital business.
+
+If you’re a creator or small service business and you want a working AI setup (not another PDF course):
+
+• $497 — AI Operating Kit (prompt library, SOP, custom GPT or Claude Project) — delivered in a weekend
+
+We don’t do full websites or “build my SaaS.” Fixed package, fixed price.
+
+Details + terms: link in bio → Work with us
+
+(Need a one-purpose web tool instead? DM us — separate package on the landing page.)
 ```
 
-Ask Kira only once. If she says no or it’s a collision with her idea, skip. Do not make her co-owner of this track.
+Replace implicit `[URL]` with link-in-bio → **Work with us** → https://futbolmasta09.github.io/cash-first-offer/
+
+**Codex audit:** [`FTF_SOCIAL_CODEX_AUDIT_RESULT.md`](FTF_SOCIAL_CODEX_AUDIT_RESULT.md) — PASS WITH NOTES · safe to show Kira · do not publish old B-heavy copy.
+
+Log each IG/TikTok/FB post in the table above. Kira triages DMs → Ryan sends payment link.
 
 ---
 

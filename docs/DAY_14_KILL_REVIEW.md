@@ -1,6 +1,6 @@
 # Day-14 kill review
 
-**Review date (target):** 2026-09-10  
+**Review date (target):** 2026-09-12  
 **Actual review date:** _______________  
 **Experiment opened:** 2026-08-27  
 **Authority:** SD-018 · `KILL_CRITERIA.md`
