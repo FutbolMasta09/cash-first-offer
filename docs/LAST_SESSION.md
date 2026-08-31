@@ -15,14 +15,14 @@
 ## Confirmed alignment (Kira doc ? Ryan offer)
 
 | Topic | Kira | Ryan docs |
-|-------|------|-------------|
+|-------|------|-----------|
 | Social plan | Plan A ? talk about it a bit more | ? Same |
 | Bio hub | Stan Store | ? Same |
 | Package A on feed | Lead with $497 kit | ? Same |
 | Package B | DM / landing, not feed pricing | ? Same |
 | Content balance | ~70 / 20 / 10 (guidelines) | ? Same |
-| Ryan?s role | Builder, payment, delivery | ? Same |
-| Kira?s role | Face, voice, strategy, DM triage | ? Same |
+| Ryan's role | Builder, payment, delivery | ? Same |
+| Kira's role | Face, voice, strategy, DM triage | ? Same |
 
 ## New context from Kira (brand ? not in Ryan handoff before)
 
@@ -37,5 +37,4 @@ Tier 1?2 when clock starts: local/warm, FB groups, SWC, Reddit/Discord ? not Fiv
 
 ## Git
 
-- Pushed **`10b70d3`** ? Kira handoff doc (md + txt)
-- Pending commit ? Kira brand handoff file + D004 integration
+- Pushed **`866df09`** ? Kira brand handoff (D004) integrated
